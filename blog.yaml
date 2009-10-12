@@ -1,0 +1,14 @@
+theme: lightword 
+name: From A random engineer
+tagline: pushed to computers by force, now tinkers with them by choice :)
+base_url: http://localhost/~selva/blog/out/
+
+feedburner_url: http://feeds.feedburner.com/FromABuddingEngineer
+
+blocks:
+    - about-me
+    - my-web-presence    
+
+nav_links:
+    - My Photo: http://picasaweb.google.com/azhaguselvan
+    - My Code: http://github.com/tamizhgeek
