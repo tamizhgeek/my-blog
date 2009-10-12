@@ -1,5 +1,4 @@
 {% from "macros.html" import single_sidebar_block %}
-{% from "macros.html" import print_nav_links %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -23,13 +22,13 @@
 <div id="top"><h1 id="logo"><a name="top" title="{{settings.name}}" href="{{settings.base_url}}">{{settings.name}}</a> <small>{{settings.tagline}}</small></h1></div>
 
 <div id="header">
-<a id="rss-feed" title="Syndicate this site using RSS" href="http://feeds.feedburner.com/yuvisense">Subscribe via RSS</a>
+<a id="rss-feed" title="Syndicate this site using RSS" href="{{settings['feedburner_url']}}">Subscribe via RSS</a>
 
 <div id="top_bar">
 <ul id="front_menu">
 <li class="page_item"><a href="{{settings.base_url}}about-me.html" title="About Me"><span>About Me</span></a></li>
 <li class="page_item"><a href="{{settings.base_url}}archives.html" title="Complete Archives"><span>Archives</span></a></li>
-{{ print_nav_links(blog) }}
+{% for item in settings['nav_links'] %} {% for key in item %}<li class="page_item"><a href="{{item[key]}}" title="{{key}}"><span>{{key}}</span><a></li>{% endfor %}{% endfor %}
 </ul>
 <form action="http://www.google.com/cse" id="searchform">
   <div>

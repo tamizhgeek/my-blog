@@ -1,6 +1,6 @@
-theme: lightword 
+theme: plaintxtblog 
 name: From A random engineer
-tagline: pushed to computers by force, now tinkers with them by choice :)
+tagline: A guy who was pushed to computers by force - now tinkers with them by choice :)
 base_url: http://localhost/~selva/blog/out/
 
 feedburner_url: http://feeds.feedburner.com/FromABuddingEngineer
