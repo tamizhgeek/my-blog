@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 22 Oct 2009 01:07:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I am shifting again :P</title><link>http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</link><description>&lt;p&gt;I have started hacking with HiSlain application. I have successfully ported the plaintxtblog theme - my blog currently using it - to the HiSlain blog engine. It works cool in my local setup. You can find the code here - &amp;lt;http://github.com/tamizhgeek/my-blog&amp;gt; :P
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 22 Oct 2009 01:44:04 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I have migrated to HiSlain</title><link>http://azhaguselvan.co.cc/blog/i-have-migrated.html</link><description>&lt;p&gt;I have sucessfully migrated to the new HiSlain blog from my old WP blog. As i said i have been contributing to this application. I ported the plaintxt theme which i have been using.
+&lt;/p&gt;
+&lt;p&gt;Now, I have wrote a &lt;a href="http://github.com/tamizhgeek/hislain-extras/scripts/wp-hislain-migrator.py"&gt;script&lt;/a&gt; which effectively migrates all the WP posts, pages, tags to &lt;a href="http://github.com/tamizhgeek/hislain"&gt;HiSlain&lt;/a&gt;. I have done my migration with my own-script and am happy :D
+&lt;/p&gt;
+&lt;p&gt;During this migration there were problems thrown by unicode strings created by stupid-WP RSS file. I have to fix my script to encode and decode those strings while storing and retreiving from the file. 
+&lt;/p&gt;
+&lt;p&gt;Current implementation has no built-in FTP. So am manually transferring files from my PC to web server. Will think of intergrating FTP support - yuvi also promised to do that. But i can't wait for that - I have migrated. And you re now in my HiSlain blog.
+&lt;/p&gt;
+&lt;p&gt;Now yuvi should also be happy.
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/i-have-migrated.html</guid><pubDate>Thu, 22 Oct 2009 01:28:32 GMT</pubDate></item><item><title>I am shifting again :P</title><link>http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</link><description>&lt;p&gt;I have started hacking with HiSlain application. I have successfully ported the plaintxtblog theme - my blog currently using it - to the HiSlain blog engine. It works cool in my local setup. You can find the code here - &amp;lt;http://github.com/tamizhgeek/my-blog&amp;gt; :P
 &lt;/p&gt;
 &lt;p&gt;Now, am looking into the exported XML file from the wordpress installation - that has all my blog entries. Thinking of writing a script to parse that and write the output as needed by HiSlain to make my transition smoother. This can also pave way for the wordpress -&amp;gt; HiSlain converter tool :D
 &lt;/p&gt;
@@ -54,39 +63,4 @@
 &lt;p&gt;I dint have a proper guidance, so i lacked in my progress. And there comes &lt;a href="http://sbalamurugan.wordpress.com"&gt;bala&lt;/a&gt; anna, he gave lot of suggestions, made me involved in this,encouraged, cleared my doubts without a single fuss! So, things started getting shape, and one fine evening after his approval, i sent the patch to project-mentors. After a round of review and corrections my patch was accepted. I'm damn happy :D All thanks to bala anna.
 &lt;/p&gt;
 &lt;p&gt;Later within a week my another patch was also accepted. Of-course both are trivial, stupid patches, But still it encourages me :P
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/a-patch-story-tcenet.html</guid><pubDate>Wed, 30 Sep 2009 21:21:29 GMT</pubDate></item><item><title>Installing Emacs 23 on Debian lenny :-)</title><link>http://azhaguselvan.co.cc/blog/installing-emacs-23-on-debian-lenny.html</link><description>&lt;p&gt;This is as simple as that. We are going to get the latest Emacs(ie Version 23)
-   source from the sid repos and build .deb's from that. Installing those resultant .deb's through dpkg is fine. But we are going to follow a cool solution in which synaptic will handle that for us :-) So here goes the entire step by step documentation.
-&lt;/p&gt;
-&lt;p&gt;Note: You need to do all the following steps with root privileges.
-&lt;/p&gt;
-&lt;p&gt;1)edit your sources.list to add sid repository. Add only the deb-src.
-   &lt;blockquote&gt;cd /etc/apt
-   gedit sources.list&lt;/blockquote&gt;
-   2)add the following line to the sources.list file.
-   &lt;blockquote&gt;deb-src http://ftp.debian.org/debian/ sid main&lt;/blockquote&gt;
-   3)now run the following commands in the terminal
-   &lt;blockquote&gt;apt-get build-dep emacs23
-   apt-get -b source emacs23&lt;/blockquote&gt;
-   This will create the .deb packages needed to install Emacs 23. Whooa!! :-)
-   but wait, the Emacs 23 depends on latest texinfo package. So now you have to back port that too.
-   Repeat the same steps for texinfo. i.e
-   &lt;blockquote&gt;apt-get build-dep texinfo
-   apt-get -b source texinfo&lt;/blockquote&gt;
-   Now we are done with all the .deb's needed to install Emacs 23.
-&lt;/p&gt;
-&lt;p&gt;4) You may install those directly from command line through dpkg. But as i said earlier the coolest part will be doing that by synpatic :) So, copy all the .deb packages built to /home/user_name/packages. See change the user name to your user name.
-   &lt;blockquote&gt;cp *.deb /home/user_name/packages/
-   cd /home/user_name/packages&lt;/blockquote&gt;
-   5)Now do the following command to create the Packages.gz file that is needed to for Synaptic to &#8220;see&#8221; your repository
-   &lt;blockquote&gt;dpkg-scanpackages . /dev/null | gzip -9c &amp;gt; Packages.gz&lt;/blockquote&gt;
-   Be sure to install the build-essential package (aptitude install build-essential) before running the above command.
-&lt;/p&gt;
-&lt;p&gt;6)Now its time to open the sources.list again. Open it and add the following line.
-   &lt;blockquote&gt;deb file:/home/user_name/packages/ /&lt;/blockquote&gt;
-   7) You are done :-) Just run
-   &lt;blockquote&gt;apt-get update&lt;/blockquote&gt;
-   Once its over you can install Emacs 23 from synaptic.:D Install it.
-   Enjoy PDF-viewing, anti-aliased fonts,Unicode suport and many &lt;a href="http://www.gnu.org/software/emacs/"&gt;more&lt;/a&gt;. Have fun !
-&lt;/p&gt;
-&lt;p&gt;Thanks to an &lt;a href="http://odzangba.wordpress.com/2006/10/13/how-to-build-local-apt-repositories/"&gt;african blogger&lt;/a&gt; and gravity(nick) who replied to my queries in #debian IRC channel.
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/installing-emacs-23-on-debian-lenny.html</guid><pubDate>Thu, 13 Aug 2009 20:08:00 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/a-patch-story-tcenet.html</guid><pubDate>Wed, 30 Sep 2009 21:21:29 GMT</pubDate></item></channel></rss>
