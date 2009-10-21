@@ -15,8 +15,8 @@ body{font-family:verdana, geneva, sans-serif;font-size:75%;}
 body div#content h2,div#content h3,div#content h4,div#content h5,div#content h6{font-family:verdana, geneva, sans-serif;}
 body div.sidebar{text-align:right;}
 body div#primary{float:left; width: 21%;}
-body div#secondary{float:left; width: 10%;}
-body div#content{float:left; margin:0 0 0 5px; width: 65%;}
+body div#secondary{float:left; width: 15%;}
+body div#content{float:left; margin:0 0 0 5px; width: 60%;}
 body div.sidebar{border-right:5px solid #ddd; padding-right:5px;}
 body div.sidebar h3 {text-decoration: underline; font-style: italic; }
 </style>
@@ -41,8 +41,11 @@ body div.sidebar h3 {text-decoration: underline; font-style: italic; }
                    <ul>
                        <li id="subpagenav">
                              <h3>Pages</h3>
-                                <ul><a href="{{settings.base_url}}about-me.html" title="About Me"><span>About Me</span></a></ul>
+                                <ul><a href="{{settings.base_url}}about.html" title="About Me"><span>About Me</span></a></ul>
                                  <ul><a href="{{settings.base_url}}archives.html" title="Complete Archives"><span>Archives</span></a></ul>
+                                 {% for item in settings['nav_links'] %} {% for key in item %}
+                                 <ul><a href="{{item[key]}}" title="{{key}}"><span>{{key}}</span></a></ul>
+                                 {% endfor %}{% endfor %}                        
                         </li>
 
                       <li id="rss-links">                              <h3>RSS</h3>
@@ -50,6 +53,7 @@ body div.sidebar h3 {text-decoration: underline; font-style: italic; }
                                    <li><a id="rss-feed" title="Syndicate this site using RSS" href="{{settings['feedburner_url']}}">Subscribe via RSS</a> </li>
                                  </ul>
                                    </li>
+                              
                  </ul>
            </div><!-- end secondary sidebar -->
              <div id="content" class="hfeed">

@@ -1,111 +1,42 @@
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
-
 <head>
 <title> 
 Home Page
  | From A random engineer</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="stylesheet" href="http://localhost/~selva/blog/out/static/style.css" type="text/css" />
-
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js'></script>
-
 <style type="text/css">/*<![CDATA[*/* html #searchform{margin-top:-13px;}*+ html #searchform{margin-top:-13px;}  #content-body,x:-moz-any-link{float:left;margin-right:28px;}#content-body, x:-moz-any-link, x:default{float:none;margin-right:25px;} /*]]>*/</style>
-<script src="http://localhost/~selva/blog/out/static/js/cufon.js" type="text/javascript"></script>
-<script src="http://localhost/~selva/blog/out/static/js/mp.font.js" type="text/javascript"></script>
 <!--[if IE 6]><style type="text/css">/*<![CDATA[*/#header{background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://localhost/~selva/blog/out/static/images/content_top.png',sizingMethod='scale'); }#footer{background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://localhost/~selva/blog/out/static/images/content_bottom.png',sizingMethod='scale'); }.comm_date{background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://localhost/~selva/blog/out/static/images/date_comm_box.png',sizingMethod='scale'); }/*]]>*/</style><![endif]-->
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.feedburner.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.feedburner.com/FromABuddingEngineer" />
 <link rel="stylesheet" type="text/css" href="http://localhost/~selva/blog/out/static/codehilite.css" />
-
-  <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-970897-4");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
+<style type="text/css">
+body{font-family:verdana, geneva, sans-serif;font-size:75%;}
+body div#content h2,div#content h3,div#content h4,div#content h5,div#content h6{font-family:verdana, geneva, sans-serif;}
+body div.sidebar{text-align:right;}
+body div#primary{float:left; width: 21%;}
+body div#secondary{float:left; width: 15%;}
+body div#content{float:left; margin:0 0 0 5px; width: 60%;}
+body div.sidebar{border-right:5px solid #ddd; padding-right:5px;}
+body div.sidebar h3 {text-decoration: underline; font-style: italic; }
+</style>
 </head>
-
 <body>
-<div id="top"><h1 id="logo"><a name="top" title="From A random engineer" href="http://localhost/~selva/blog/out/">From A random engineer</a> <small>pushed to computers by force, now tinkers with them by choice :)</small></h1></div>
+<div id="wrapper">
+    <div id="header">
+		        <h1 id="blog-title"><a href="http://localhost/~selva/blog/out/"  title="From A random engineer">From A random engineer</a></h1>
+		        <div id="blog-description">A guy who was pushed to computers by force - now tinkers with them by choice :)</div>
+	</div>
 
-<div id="header">
-<a id="rss-feed" title="Syndicate this site using RSS" href="http://feeds.feedburner.com/yuvisense">Subscribe via RSS</a>
-
-<div id="top_bar">
-<ul id="front_menu">
-<li class="page_item"><a href="http://localhost/~selva/blog/out/about-me.html" title="About Me"><span>About Me</span></a></li>
-<li class="page_item"><a href="http://localhost/~selva/blog/out/archives.html" title="Complete Archives"><span>Archives</span></a></li>
-<li><a href="photos">photos</a></li> <li><a href="code">code</a></li> 
-</ul>
-<form action="http://www.google.com/cse" id="searchform">
-  <div>
-    <input type="hidden" name="cx" value="013433808249084869424:3cbtxhytyae" />
-    <input type="hidden" name="ie" value="UTF-8" />
-    <input id="s" type="text" name="q" value="" />
-    <input type="submit" title="Search" id="go" value="" />
-  </div>
-</form>
-</div>
-</div>
-
-<div id="content">
-<div id="content-body">
-  
-    
-        
-<div  class="post hentry">
-<div class="comm_date"><span class="data"><span class="j">07</span>Oct/'09</span><span class="nr_comm"><a href="http://localhost/~selva/blog/out/i-am-happy.html" class="nr_comm_spot">#</a></span></div>
-<h2><a rel="bookmark" href="http://localhost/~selva/blog/out/i-am-happy.html" title="">I am Happy</a></h2>
-
-<p>This is to test whether all tags work fine
-</p>
-
-<div class="cat_tags clear">
-<span class="category">Tagged as:  <a rel="tag" href="http://localhost/~selva/blog/out/tag/testing.html">testing</a> </span>
-<span class="continue"><a href="http://localhost/~selva/blog/out/i-am-happy.html#disqus_thread" class="nr_comm_spot">View Comments</a></span><div class="clear"/>
-</div>
-<div class="cat_tags_close"></div>
-
-</div>
-</div>
-
-    
-        
-<div  class="post hentry">
-<div class="comm_date"><span class="data"><span class="j">06</span>Oct/'09</span><span class="nr_comm"><a href="http://localhost/~selva/blog/out/hiworld.html" class="nr_comm_spot">#</a></span></div>
-<h2><a rel="bookmark" href="http://localhost/~selva/blog/out/hiworld.html" title="">Hi World</a></h2>
-
-<p>This is a traditional hello world post!
-</p>
-
-<div class="cat_tags clear">
-<span class="category">Tagged as:  <a rel="tag" href="http://localhost/~selva/blog/out/tag/post.html">post</a> </span>
-<span class="continue"><a href="http://localhost/~selva/blog/out/hiworld.html#disqus_thread" class="nr_comm_spot">View Comments</a></span><div class="clear"/>
-</div>
-<div class="cat_tags_close"></div>
-
-</div>
-</div>
-
-    
-
-
-
-<div class="newer_older">
-<span class="older"><a href="http://localhost/~selva/blog/out/archives.html">Complete archives</a></span>
-
-</div>
-</div>
-<div class="content-sidebar">
-
-
+    <div id="container">
+             <div id="primary" class="sidebar"><!-- Display all the plugins here. -->
+                   <ul>
+                      
+                     
+<li id="categories">
 <h3>About</h3>
 
 <ul>
@@ -114,9 +45,11 @@ pageTracker._trackPageview();
  </li>
 </ul>
 
+</li>
 
-
-
+                     
+                     
+<li id="categories">
 <h3>My web presence</h3>
 
 <ul>
@@ -137,34 +70,111 @@ pageTracker._trackPageview();
  </li>
 </ul>
 
+</li>
 
+                     
 
-</div><div class="clear"></div>
+                  </ul>
+             </div><!-- end primary sidebar-->
+            <div id="secondary" class="sidebar"><!-- Display the template specific links, blocks  etc here -->
+                   <ul>
+                       <li id="subpagenav">
+                             <h3>Pages</h3>
+                                <ul><a href="http://localhost/~selva/blog/out/about-me.html" title="About Me"><span>About Me</span></a></ul>
+                                 <ul><a href="http://localhost/~selva/blog/out/archives.html" title="Complete Archives"><span>Archives</span></a></ul>
+                                  
+                                 <ul><a href="http://picasaweb.google.com/azhaguselvan" title="My Photo"><span>My Photo</span></a></ul>
+                                  
+                                 <ul><a href="http://github.com/tamizhgeek" title="My Code"><span>My Code</span></a></ul>
+                                                         
+                        </li>
+
+                      <li id="rss-links">
+                              <h3>RSS</h3>
+                                 <ul>
+                                   <li><a id="rss-feed" title="Syndicate this site using RSS" href="http://feeds.feedburner.com/FromABuddingEngineer">Subscribe via RSS</a> </li>
+                                 </ul>
+                                   </li>
+                 <li id="github-badge"></li>
+<script type="text/javascript" charset="utf-8">
+  GITHUB_USERNAME = "tamizhgeek";
+  GITHUB_LIST_LENGTH = 3;
+  GITHUB_HEAD = "h3"; 
+  GITHUB_TITLE = "My projects";
+
+</script>
+<script src="http://drnicjavascript.rubyforge.org/github_badge/dist/github-badge-launcher.js" type="text/javascript"></script>
+                 </ul>
+           </div><!-- end secondary sidebar -->
+             <div id="content" class="hfeed">
+                         
+    
+        
+<div  class="entry-header">
+<abbr><span class="data"><span class="j">07</span>Oct/'09<span>--20:46:08</span><span class="nr_comm"><a href="http://localhost/~selva/blog/out/i-am-happy.html" class="nr_comm_spot">#</a></span></abbr>
+<h2 class="entry-title"><a rel="bookmark" href="http://localhost/~selva/blog/out/i-am-happy.html" title="">I am Happy</a></h2>
 </div>
-<div id="footer">
-<span class="text">
-Powered by <a href="http://http://github.com/yuvipanda/hislain" title="HiSlain">HiSlain</a> <br/> <em><a title="Themes" href="http://students.info.uaic.ro/~andrei.luca/blog/lightword-theme">LightWord Theme</a> developed by <a title="Andrei Luca" href="http://students.info.uaic.ro/~andrei.luca/">Andrei Luca</a> for and ported to HiSlain by <a href="http://yuvisense.net/">Yuvi</a>.</em>
-<a title="Go to top" class="top" href="#top">Go to top &uarr;</a>
-
-</span>
+<div class="entry-content">
+<p>This is to test whether all tags work fine
+</p>
+</div>
+<div class="entry-meta">
+<span class="entry-tags">Tagged as:  <a rel="tag" href="http://localhost/~selva/blog/out/tag/testing.html">testing</a> </span>
+<span class="meta-sep">|</span>
+<span class="entry-comments"><a href="http://localhost/~selva/blog/out/i-am-happy.html#disqus_thread" class="nr_comm_spot">View Comments</a></span>
 </div>
 
+    
+        
+<div  class="entry-header">
+<abbr><span class="data"><span class="j">06</span>Oct/'09<span>--23:42:00</span><span class="nr_comm"><a href="http://localhost/~selva/blog/out/hiworld.html" class="nr_comm_spot">#</a></span></abbr>
+<h2 class="entry-title"><a rel="bookmark" href="http://localhost/~selva/blog/out/hiworld.html" title="">Hi World</a></h2>
+</div>
+<div class="entry-content">
+<p>This is a traditional hello world post!
+</p>
+</div>
+<div class="entry-meta">
+<span class="entry-tags">Tagged as:  <a rel="tag" href="http://localhost/~selva/blog/out/tag/post.html">post</a> </span>
+<span class="meta-sep">|</span>
+<span class="entry-comments"><a href="http://localhost/~selva/blog/out/hiworld.html#disqus_thread" class="nr_comm_spot">View Comments</a></span>
+</div>
 
-<script type="text/javascript">/* <![CDATA[ */ Cufon.now(); /* ]]> */ </script>
- <script type="text/javascript">
+    
+
+
+              <div class="navigation" id="nav-below">
+                        <span class="older"><a href="http://localhost/~selva/blog/out/archives.html">Complete archives</a></span>
+                        <span class="meta-sep">|</span>
+                        <span class="older"><a href="http://localhost/~selva/blog/out/">Home</a></span>
+              </div>  
+            </div>
+
+
+       </div>
+       <div id="footer">
+           <span id="generator-link">Powered by <a href="http://github.com/tamizhgeek/hislain" title="HiSlain">HiSlain</a></span>
+            <span class="meta-sep">|</span>
+            <span id="theme-link"><a href="http://www.plaintxt.org/themes/plaintxtblog/" title="plaintxtblog theme for WordPress" rel="follow designer">plaintxtblog</a> theme by <span class="vcard"><a class="url fn n" href="http://scottwallick.com/" title="scottwallick.com" rel="follow designer"><span class="given-name">Scott</span></a>
+             <span class="meta-sep">|</span>
+                  <span>Ported to HiSlain by :<a href="http://azhaguselvan.co.cc" >Azhaguselvan</a></span>
+
+</div>
+<script type="text/javascript">
 //<![CDATA[
 (function() {
-		var links = document.getElementsByTagName('a');
-		var query = '?';
-		for(var i = 0; i < links.length; i++) {
-			if(links[i].href.indexOf('#disqus_thread') >= 0) {
-				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-			}
-		}
-		document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/yuvisense/get_num_replies.js' + query + '"></' + 'script>');
-	})();
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/tamizhgeek/get_num_replies.js' + query + '"></' + 'script>');
+})();
 //]]>
 </script>
-
+</div>
 </body>
+
 </html>

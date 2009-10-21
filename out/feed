@@ -1,4 +1,92 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://localhost/~selva/blog/out/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Tue, 13 Oct 2009 11:17:56 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I am Happy</title><link>http://localhost/~selva/blog/out/i-am-happy.html</link><description>&lt;p&gt;This is to test whether all tags work fine
-&lt;/p&gt;</description><guid isPermaLink="true">http://localhost/~selva/blog/out/i-am-happy.html</guid><pubDate>Wed, 07 Oct 2009 20:46:08 GMT</pubDate></item><item><title>Hi World</title><link>http://localhost/~selva/blog/out/hiworld.html</link><description>&lt;p&gt;This is a traditional hello world post!
-&lt;/p&gt;</description><guid isPermaLink="true">http://localhost/~selva/blog/out/hiworld.html</guid><pubDate>Tue, 06 Oct 2009 23:42:00 GMT</pubDate></item></channel></rss>
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 22 Oct 2009 01:07:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I am shifting again :P</title><link>http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</link><description>&lt;p&gt;I have started hacking with HiSlain application. I have successfully ported the plaintxtblog theme - my blog currently using it - to the HiSlain blog engine. It works cool in my local setup. You can find the code here - &amp;lt;http://github.com/tamizhgeek/my-blog&amp;gt; :P
+&lt;/p&gt;
+&lt;p&gt;Now, am looking into the exported XML file from the wordpress installation - that has all my blog entries. Thinking of writing a script to parse that and write the output as needed by HiSlain to make my transition smoother. This can also pave way for the wordpress -&amp;gt; HiSlain converter tool :D
+&lt;/p&gt;
+&lt;p&gt;But not now. I'm done for today. Gonna crash to sleep at once. Grrrrr.
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</guid><pubDate>Mon, 12 Oct 2009 21:08:28 GMT</pubDate></item><item><title>HiSlain !!</title><link>http://azhaguselvan.co.cc/blog/hislain.html</link><description>&lt;p&gt;Now am seriously into this. I was reading through the code of this pretty app from 6.30 morning today. Its sooper cool and i am simply amazed. Finished off the functionality code part. I have to learn that jinja2 templating language used in that. The first task  I''d would like to do - is porting this 'plaintxtblog' theme to HiSlain. I'm sure i am going to start it &lt;em&gt;right now&lt;/em&gt; . I slightly remember, i have analysis of algorithms exams tomorrow. But who cares?
+&lt;/p&gt;
+&lt;p&gt;As i said &lt;em&gt;i&lt;/em&gt;am_seriously_into_this :P
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/hislain.html</guid><pubDate>Thu, 08 Oct 2009 03:36:55 GMT</pubDate></item><item><title>You may find this interesting :D</title><link>http://azhaguselvan.co.cc/blog/you-may-find-this-interesting-d.html</link><description>&lt;p&gt;Deepavali time here - so people are thronging the textile shops all over the city, Madurai.
+&lt;/p&gt;
+&lt;p&gt;Pothy's - recent entrant in madurai's textile market is having a big time here - people of madurai are running mad over their shop and I can see always loads of people shopping in there. STOP. What the heck in this is related to a meaningful blog-post?.Don't waste our time over your personal non-sense.
+&lt;/p&gt;
+&lt;p&gt;There is! Read on.
+&lt;/p&gt;
+&lt;p&gt;They have a centralized billing system which operates all the computers in their 5 floors. Today, we saw a large crowd shouting before every billing counter - "Ah we re getting late" "enna than ya panrrenga??" "oru bill poda ivalo nerama?!"
+&lt;/p&gt;
+&lt;p&gt;Then said the pothy's guy -" machine hang aiduchu sir. etho virus pola!" - Ha ha - poor windows users. The same is the case in all floors and soon people started piling up before each counter. The pothy's were forced to stop their business, stop new customers entering from then. I laughed at them  sarcastically and came out.
+&lt;/p&gt;
+&lt;p&gt;OK. Now the point is,
+&lt;/p&gt;
+&lt;p&gt;I heard pothy's were making lot-of-lakhs business per day in madurai. May be they could have saved some lakhs, if the have used &lt;em&gt;GNU/Linux&lt;/em&gt; .
+&lt;/p&gt;
+&lt;p&gt;Thats it :)
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/you-may-find-this-interesting-d.html</guid><pubDate>Wed, 07 Oct 2009 16:45:18 GMT</pubDate></item><item><title>What's my problem ?!</title><link>http://azhaguselvan.co.cc/blog/whats-my-problem.html</link><description>&lt;p&gt;When I get my exams going on, and time running ahead of me - I always see a rapidly increasing interest towards learning new-tools, know about new projects, read interesting blogs!! :-/ Should I laugh at me? Should kick my stupid mind?? I don't know.
+&lt;/p&gt;
+&lt;p&gt;Shyte. :(
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/whats-my-problem.html</guid><pubDate>Tue, 06 Oct 2009 16:41:35 GMT</pubDate></item><item><title>Impressed by HiSlain</title><link>http://azhaguselvan.co.cc/blog/impressed-by-hislain.html</link><description>&lt;p&gt;Here it is- &lt;a href="http://github.com/yuvipanda/HiSlain"&gt;http://github.com/yuvipanda/HiSlain&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;HiSlain- A small static blog publishing app written in python. Well am pretty impressed with it after seeing it in action here - &lt;a href="http://yuvi.in/blog"&gt;http://yuvi.in/blog&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;It is developed by yuvipanda- a die hard coder( &lt;a href="http://github.com/yuvipanda"&gt;http://github.com/yuvipanda&lt;/a&gt;) :)
+&lt;/p&gt;
+&lt;p&gt;It has blocks, plugins (Suprise suprise!) etc.
+&lt;/p&gt;
+&lt;p&gt;An almost  GPL-ed software available for sharing and reuse.
+&lt;/p&gt;
+&lt;p&gt;So decided to get my hands over it, help in develop it, port this plaintxtblog theme to HiSlain and to use it as my blog-tool. A to-do marked for coming study-holidays :P
+&lt;/p&gt;
+&lt;p&gt;I am happy to hack with it :)
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/impressed-by-hislain.html</guid><pubDate>Tue, 06 Oct 2009 11:09:16 GMT</pubDate></item><item><title>Am happy with git</title><link>http://azhaguselvan.co.cc/blog/am-happy-with-git.html</link><description>&lt;p&gt;I have started using git. The code for my website is in a git repo.
+&lt;/p&gt;
+&lt;p&gt;Actually I have hosted it in google-code with svn repository. Then using git-svn cloned that into a git repo and  tinkering locally with it. Git-svn is an awesome tool. I just have code over there in google-severs just for a backup- and  I can also say I have a project hosted there in google code. :P
+&lt;/p&gt;
+&lt;p&gt;But still git-svn is a suitable tool for people loving svn but also need the distributed thingy from git. Commit locally, review it, strash it, re-commit and push everything to remote side at a single shot. yay!! :D
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/am-happy-with-git.html</guid><pubDate>Tue, 06 Oct 2009 04:33:37 GMT</pubDate></item><item><title>Tweaking into wordpress-got time stamps</title><link>http://azhaguselvan.co.cc/blog/tweaking-into-wordpress-got-time-stamps.html</link><description>&lt;p&gt;Just found out how to get time-stamps printed along with the date in the post headings of plaintxt theme :) Tweaking into wordpress is great fun. Soon or later, i will start contributing to wordpress.
+&lt;/p&gt;
+&lt;p&gt;Just i had to figure out the function which returns the post-time and call it in the code which builds the header for each post :)
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/tweaking-into-wordpress-got-time-stamps.html</guid><pubDate>Mon, 05 Oct 2009 21:17:44 GMT</pubDate></item><item><title>My website is again alive</title><link>http://azhaguselvan.co.cc/blog/my-website-is-again-alive.html</link><description>&lt;p&gt;My website after a host change, dropping of personal blog, complete overhaul of UI etc has went live. :P
+&lt;/p&gt;
+&lt;p&gt;Blueprint CSS saved my day. I hate tinkering with css stuff. No mood to try any CMS too. So sat back found that blueprint, and finally brought a somewhat-nice-site up. I am happy. Real happy :)
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/my-website-is-again-alive.html</guid><pubDate>Mon, 05 Oct 2009 20:24:37 GMT</pubDate></item><item><title>A patch story - TCENet</title><link>http://azhaguselvan.co.cc/blog/a-patch-story-tcenet.html</link><description>&lt;p&gt;It's my long wish to contribute code to &lt;a href="http://tcenet.tce.edu" target="_blank"&gt;TCENet &lt;/a&gt;, an F/OSS based ERP portal of my college.
+&lt;/p&gt;
+&lt;p&gt;I dint have a proper guidance, so i lacked in my progress. And there comes &lt;a href="http://sbalamurugan.wordpress.com"&gt;bala&lt;/a&gt; anna, he gave lot of suggestions, made me involved in this,encouraged, cleared my doubts without a single fuss! So, things started getting shape, and one fine evening after his approval, i sent the patch to project-mentors. After a round of review and corrections my patch was accepted. I'm damn happy :D All thanks to bala anna.
+&lt;/p&gt;
+&lt;p&gt;Later within a week my another patch was also accepted. Of-course both are trivial, stupid patches, But still it encourages me :P
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/a-patch-story-tcenet.html</guid><pubDate>Wed, 30 Sep 2009 21:21:29 GMT</pubDate></item><item><title>Installing Emacs 23 on Debian lenny :-)</title><link>http://azhaguselvan.co.cc/blog/installing-emacs-23-on-debian-lenny.html</link><description>&lt;p&gt;This is as simple as that. We are going to get the latest Emacs(ie Version 23)
+   source from the sid repos and build .deb's from that. Installing those resultant .deb's through dpkg is fine. But we are going to follow a cool solution in which synaptic will handle that for us :-) So here goes the entire step by step documentation.
+&lt;/p&gt;
+&lt;p&gt;Note: You need to do all the following steps with root privileges.
+&lt;/p&gt;
+&lt;p&gt;1)edit your sources.list to add sid repository. Add only the deb-src.
+   &lt;blockquote&gt;cd /etc/apt
+   gedit sources.list&lt;/blockquote&gt;
+   2)add the following line to the sources.list file.
+   &lt;blockquote&gt;deb-src http://ftp.debian.org/debian/ sid main&lt;/blockquote&gt;
+   3)now run the following commands in the terminal
+   &lt;blockquote&gt;apt-get build-dep emacs23
+   apt-get -b source emacs23&lt;/blockquote&gt;
+   This will create the .deb packages needed to install Emacs 23. Whooa!! :-)
+   but wait, the Emacs 23 depends on latest texinfo package. So now you have to back port that too.
+   Repeat the same steps for texinfo. i.e
+   &lt;blockquote&gt;apt-get build-dep texinfo
+   apt-get -b source texinfo&lt;/blockquote&gt;
+   Now we are done with all the .deb's needed to install Emacs 23.
+&lt;/p&gt;
+&lt;p&gt;4) You may install those directly from command line through dpkg. But as i said earlier the coolest part will be doing that by synpatic :) So, copy all the .deb packages built to /home/user_name/packages. See change the user name to your user name.
+   &lt;blockquote&gt;cp *.deb /home/user_name/packages/
+   cd /home/user_name/packages&lt;/blockquote&gt;
+   5)Now do the following command to create the Packages.gz file that is needed to for Synaptic to &#8220;see&#8221; your repository
+   &lt;blockquote&gt;dpkg-scanpackages . /dev/null | gzip -9c &amp;gt; Packages.gz&lt;/blockquote&gt;
+   Be sure to install the build-essential package (aptitude install build-essential) before running the above command.
+&lt;/p&gt;
+&lt;p&gt;6)Now its time to open the sources.list again. Open it and add the following line.
+   &lt;blockquote&gt;deb file:/home/user_name/packages/ /&lt;/blockquote&gt;
+   7) You are done :-) Just run
+   &lt;blockquote&gt;apt-get update&lt;/blockquote&gt;
+   Once its over you can install Emacs 23 from synaptic.:D Install it.
+   Enjoy PDF-viewing, anti-aliased fonts,Unicode suport and many &lt;a href="http://www.gnu.org/software/emacs/"&gt;more&lt;/a&gt;. Have fun !
+&lt;/p&gt;
+&lt;p&gt;Thanks to an &lt;a href="http://odzangba.wordpress.com/2006/10/13/how-to-build-local-apt-repositories/"&gt;african blogger&lt;/a&gt; and gravity(nick) who replied to my queries in #debian IRC channel.
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/installing-emacs-23-on-debian-lenny.html</guid><pubDate>Thu, 13 Aug 2009 20:08:00 GMT</pubDate></item></channel></rss>
