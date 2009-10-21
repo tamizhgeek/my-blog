@@ -1,0 +1,10 @@
+Am happy with git
+permalink: am-happy-with-git.html
+tags: git,git-svn,hacking,website,
+published: 2009-10-06 04:33:37
+
+I have started using git. The code for my website is in a git repo.
+
+Actually I have hosted it in google-code with svn repository. Then using git-svn cloned that into a git repo and  tinkering locally with it. Git-svn is an awesome tool. I just have code over there in google-severs just for a backup- and  I can also say I have a project hosted there in google code. :P
+
+But still git-svn is a suitable tool for people loving svn but also need the distributed thingy from git. Commit locally, review it, strash it, re-commit and push everything to remote side at a single shot. yay!! :D

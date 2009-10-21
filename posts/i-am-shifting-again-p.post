@@ -1,0 +1,10 @@
+I am shifting again :P
+permalink: i-am-shifting-again-p.html
+tags: code,hislain,wordpress,xml,
+published: 2009-10-12 21:08:28
+
+I have started hacking with HiSlain application. I have successfully ported the plaintxtblog theme - my blog currently using it - to the HiSlain blog engine. It works cool in my local setup. You can find the code here - &lt;http://github.com/tamizhgeek/my-blog&gt; :P
+
+Now, am looking into the exported XML file from the wordpress installation - that has all my blog entries. Thinking of writing a script to parse that and write the output as needed by HiSlain to make my transition smoother. This can also pave way for the wordpress -&gt; HiSlain converter tool :D
+
+But not now. I'm done for today. Gonna crash to sleep at once. Grrrrr.

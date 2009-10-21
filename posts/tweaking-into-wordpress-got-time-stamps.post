@@ -1,0 +1,8 @@
+Tweaking into wordpress-got time stamps
+permalink: tweaking-into-wordpress-got-time-stamps.html
+tags: wordpress-hacking,
+published: 2009-10-05 21:17:44
+
+Just found out how to get time-stamps printed along with the date in the post headings of plaintxt theme :) Tweaking into wordpress is great fun. Soon or later, i will start contributing to wordpress.
+
+Just i had to figure out the function which returns the post-time and call it in the code which builds the header for each post :)

@@ -1,0 +1,10 @@
+My Code
+
+<div id="github-badge"></div>
+<script type="text/javascript" charset="utf-8">
+  GITHUB_USERNAME = "tamizhgeek";
+  GITHUB_LIST_LENGTH = 3;
+  GITHUB_HEAD = "h3"; 
+
+</script>
+<script src="http://drnicjavascript.rubyforge.org/github_badge/dist/github-badge-launcher.js" type="text/javascript"></script>
