@@ -22,13 +22,13 @@
 <div id="top"><h1 id="logo"><a name="top" title="{{settings.name}}" href="{{settings.base_url}}">{{settings.name}}</a> <small>{{settings.tagline}}</small></h1></div>
 
 <div id="header">
-<a id="rss-feed" title="Syndicate this site using RSS" href="{{settings['feedburner_url']}}">Subscribe via RSS</a>
+<a id="rss-feed" title="Syndicate this site using RSS" href="http://feeds.feedburner.com/yuvisense">Subscribe via RSS</a>
 
 <div id="top_bar">
 <ul id="front_menu">
-<li class="page_item"><a href="{{settings.base_url}}about-me.html" title="About Me"><span>About Me</span></a></li>
-<li class="page_item"><a href="{{settings.base_url}}archives.html" title="Complete Archives"><span>Archives</span></a></li>
-{% for item in settings['nav_links'] %} {% for key in item %}<li class="page_item"><a href="{{item[key]}}" title="{{key}}"><span>{{key}}</span><a></li>{% endfor %}{% endfor %}
+{% for nl in settings['nav-links'] %}
+<li class="page_item"><a href="{{ nl.values()[0] }}" title="{{ nl.keys()[0] }}"><span>{{nl.keys()[0]}}</span></a></li>
+{% endfor %}
 </ul>
 <form action="http://www.google.com/cse" id="searchform">
   <div>
@@ -59,10 +59,7 @@
 </div>
 <div id="footer">
 <span class="text">
-Powered by <a href="http://http://github.com/yuvipanda/hislain" title="HiSlain">HiSlain</a> 
-<br/> <em><a title="Themes" href="http://students.info.uaic.ro/~andrei.luca/blog/lightword-theme">
-LightWord Theme</a> developed by <a title="Andrei Luca" href="http://students.info.uaic.ro/~andrei.luca/">
-Andrei Luca</a> for and ported to HiSlain by <a href="http://yuvisense.net/">Yuvi</a>.</em>
+Powered by <a href="http://http://github.com/yuvipanda/hislain" title="HiSlain">HiSlain</a> <br/> <em><a title="Themes" href="http://students.info.uaic.ro/~andrei.luca/blog/lightword-theme">LightWord Theme</a> developed by <a title="Andrei Luca" href="http://students.info.uaic.ro/~andrei.luca/">Andrei Luca</a> for and ported to HiSlain by <a href="http://yuvisense.net/">Yuvi</a>.</em>
 <a title="Go to top" class="top" href="#top">Go to top &uarr;</a>
 
 </span>

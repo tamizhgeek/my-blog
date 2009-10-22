@@ -3,12 +3,14 @@ name: From A random engineer
 tagline: A guy who was pushed to computers by force - now tinkers with them by choice :)
 base_url: http://azhaguselvan.co.cc/blog/
 
-feedburner_url: http://feeds.feedburner.com/FromABuddingEngineer
+feedburner_url: http://feeds.feedburner.com/selvablog
 
 blocks:
     - about-me
     - my-web-presence    
     - cc-license
 nav_links:
+    - About me: about.html
+    - Archives: archives.html
     - My Photo: http://picasaweb.google.com/azhaguselvan
     - My Code: http://github.com/tamizhgeek

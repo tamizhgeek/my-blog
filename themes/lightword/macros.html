@@ -21,12 +21,3 @@
 {{block.render_html()}}
 
 {% endmacro %}
-
-{% macro print_nav_links(blog)  %}
-
-{% for i in range(0, blog.nav_link_names|length) %}
-<li class="page_item"><a href="{{blog.nav_link_urls[i]}}" title="{{blog.nav_link_names[i]}}"><span>
-{{blog.nav_link_names[i]}}</span></a></li> 
-{% endfor %}
-
-{% endmacro %}
