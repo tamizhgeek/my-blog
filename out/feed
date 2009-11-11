@@ -1,5 +1,163 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 22 Oct 2009 11:43:59 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I have migrated to HiSlain</title><link>http://azhaguselvan.co.cc/blog/i-have-migrated.html</link><description>&lt;p&gt;I have sucessfully migrated to the new HiSlain blog from my old WP blog. As i said i have been contributing to this application. I ported the plaintxt theme which i have been using.
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Tue, 10 Nov 2009 22:26:21 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Stupid syllabus, Microsoft and free-software</title><link>http://azhaguselvan.co.cc/blog/stupidsyllabus-microsoft-freesoftware.html</link><description>&lt;p&gt;And that was a saturday night, i was reading through the stupid VisualBasic6 code chunks sadly for my DBMS lab exam on next day(yes indeed it's sunday- wtf isn't it?? hmmm). I am really pissed off by the fact that because of my stupid syllabus i have to study this _&lt;em&gt;non-free/properiatory&lt;/em&gt;_ outdated language.
+&lt;/p&gt;
+&lt;p&gt;I was just venting out some of my frustration through this status message in FB. I swear i didn't knew it would tickle such a fierce discussion thro FB comments. &lt;a href="http://azhaguselvan.co.cc" title="azhaguselvan"&gt;Myself&lt;/a&gt;, My friend &lt;a href="http://karthik.tk" title="karthik"&gt;karthik&lt;/a&gt; and Mr.X were doing those discussion.:-P. 
+&lt;/p&gt;
+&lt;p&gt;I would refer him as Mr.X because he regretted that he shouldn't have done this in public and had also deleted all his comments from FB!(gawd alone knows why its so! :D). But man i did really enjoyed that you know ;) It gave me chance to say aloud my views on free software and it also taught me how even &lt;em&gt;computer-engineers&lt;/em&gt; are held within that microsoft magic web which doesn't allow them to think of real facts. Real sad :( 
+&lt;/p&gt;
+&lt;p&gt;The person Mr.X is one who i respect and admire in my life - but was really upset upon his views on free-software :(. Well now the discussions here.
+&lt;/p&gt;
+&lt;p&gt;My status message :-P
+&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;For the sake of the stupid syllabus they re follwing i've to study utter crap things like VB6 :( Shit. #fail
+&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;The comments,
+&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;vb6 - utter crap ??? wat do u mean by that ????
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;VB6 is microsoft visual basic 6. and that is a crappy non-free language. i hate studying that :( but i have to. I wish they shall prescribe the syllabus only stating the requirements of that course, leaving the platform and programming language to the student's choice. btw, this is for Database management system laboratory course, and i have to study VB6 and interfacing that with oracle/db2., given the aim of the course is to "to provide practice in SQL and application development using SQL" . So, why shud they restrict me to a specific language/tool/platform to study SQL?
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;'VB6 is microsoft visual basic 6' - thanks for letting me know it.. now to answer ur question.. how on the earth do u expect a syllabus for a practical paper to be framed without choosing some lang/tool/platform/watsoever...even if they do so, wat is the college suppose to do ?? buy license for all possible tool/platform/lang available in the market.. wat if i go tell, i wanna do it on a mainframe platform !!!! u expect ur college go for a mainframe purchase huh ??? wat if one student from each college starts raising that question..every college running into debts to satisfy one student ?? come on man.. vb6 oracle interface is one of the easiest one.. go research on somethin useful rather than wasting ur time on researching the syllabus..
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;??0-o as i said VB s a non-free language. if they turn to use good stable free-softwares they never need to mind about those stupid/pesky/restricting licenses. when i say free its not free is free beer its about in free in freedom.(assuming you know abt free/open source softwares). and do you think any of the real time projects outside uses VB6?? its a dead language now! m$ has recently released VS 2k10!! why not they can't alteast upgarde that? come on there are colleges which allows student's to do their lab courses in whatever language they like. in my college too it happens for ME CSE guys :P
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;..and it didnt say am finding it hard to do with VB6-oracle. am never worried abt the complexity. but being a free-software enthusiast, i feel a bit down to work with non-free tool/platform/language that too an outdated one!!
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;fyi - i know production codes still running in VB5 also... ditch ur old thoughts.. not many guys r going for new development these days.. development for all majors were done years back n all IT giants doing maintanence only !!!!
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+   ?n talking about F-R-E-E, who is gonna fix the problem, any of u guys screw up some things in the server ?? licensed softwares always comes with service warranty.. n support guys r always reachable !!!!!
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;..and and the joke of all this is - in DBMS theory paper they are teaching me abt tape drives - in the era of solid state devices!! wtf??
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;okay, no more talking with u.. rather grow up n watch the real industry n learn wats happening..
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;oh gawd! u ppl have to go a long way abt free-softwares. as i said it is not free as in &lt;em&gt;free-beer&lt;/em&gt; it free as in &lt;em&gt;freedom&lt;/em&gt;. Loads of GNU/Linux distributions are coming with service/support/warranty or whateva you call that! to name some there are canonical, red hat, novell etc etc. and fyi- "we maintain &lt;em&gt;all&lt;/em&gt; our college servers with free-operating sytems(GNU/Linux)". so free is not that something given to you free-of-cost at some inferior quality. it means something entirely different in computer science world. please try to get out of microsoft magic web :D
+&lt;/p&gt;
+&lt;p&gt;Karthik Selvakumar:
+&lt;/p&gt;
+&lt;p&gt;Then are you saying VB6 in each of the college is licensed and genuine copy :P
+   So that they have to afford more on buying softwares  !
+   Every one has a flavor and Wont this option less lab sessions narrow down it ?
+   They need a solution thats it ! then why they are more concerned about how and by which rather than what we do exactly ?
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;'Then are you saying VB6 in each of the college is licensed and genuine copy' - Jesus, stop being proud of encouraging piracy.. u wont know the pain of it, unless any of ur blood n sweat is getting robbed !!!
+&lt;/p&gt;
+&lt;p&gt;'Every one has a flavor' - So, do u mean, u dont want anybody to teach you ? Do u try to say, u can learn em all by yourselves ? Or you trying to say, I will study wat I want.. And I want a teacher to teach me that, no matter how many more wanna learn it.. I really dont get it.. If its about enjoying your flavour, who the hell restricted u from enjoying ??? I was never from a comp sci background n for the sake of my interest i learnt all scripting languages, web designing, graphic designing, wat not.. all in school/coll days !!!!
+&lt;/p&gt;
+&lt;p&gt;Bottom line, dont blame the syllabus for not learning wat u want.. Rather, u can use the time u sit on FB to do something really useful..
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;"we maintain &lt;em&gt;all&lt;/em&gt; our college servers with free-... Read moreoperating sytems(GNU/Linux)" - sorry, i dint knew i was talking with some wanna be TCE lab technician !!!!!
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan
+&lt;/p&gt;
+&lt;p&gt;"Bottom line, dont blame the syllabus for not learning wat u want.. Rather, u can use the time u sit on FB to do something really useful.."
+&lt;/p&gt;
+&lt;p&gt;we re doing that! we re learning lot of tools/softwares, out of that experiences oly we re able to talk about these pitfalls in our syllabus etc etc. and again we re privileged to have facilities that help us to learn things out of syllabus. What abt guys who don't have time/facilities/money/situation that prevent them from learning things out of this crappy syllabus.??
+&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;..and and see the following comment,
+   This is one which threw me out of the chair, and i can't stop laughing!!!
+&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;"please try to get out of microsoft magic web" - Forget the fact that MS alone charges you !!!! Thr r even costly products in the world.. Microsoft reached the basic needs of the people with its products that were charged.. and the so called open source products r nothing but an effort to ride on the road that MS has already laid !!! tell me one service provider who is daring to launch his Office suite product with no support to open MS Office products !!!!! come on man.. dont blame microsoft.. if not for em, u n me wud not have been doing wat v r doing today..
+&lt;/p&gt;
+&lt;p&gt;Mr.X:
+&lt;/p&gt;
+&lt;p&gt;Oofff... now some teacher wants me to refrain from this discussion in public !!! Am sorry guys, take it as I lost the debate..
+&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;This is where he went out of discussions.
+&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;we maintain &lt;em&gt;all&lt;/em&gt; our college servers with free-... Read moreoperating sytems(GNU/Linux)" - sorry, i dint knew i was talking with some wanna be TCE lab technician !!!!!
+&lt;/p&gt;
+&lt;p&gt;LOL. that was a answer for u. u have said "no FREE softwares will have support/warranty and what if we guys screw up things" so am saying we maintain all our servers with free oftwares and and we do are having support for the things we re screwing up - from so-called F-R-E-E software companies. :P so nothing is at loss at using free softwares. do you know python? apache? mysql? they are free softwares which top the web-server market now! even m$'s IIS lags behind apache!
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;microsoft itself has taken the road lead by unix! do you know that? for all your replies i ll simply point you to this website www.gnu.org
+&lt;/p&gt;
+&lt;p&gt;Karthik Selvakumar:
+&lt;/p&gt;
+&lt;p&gt;@Mr.X who promotes piracy man .... poor economy and unimaginable prices which you fix up makes to do so :P
+   aren't people who shed their blood for foss and similar free softwares ...
+   are you thinking that your talent can only be rewarded when it is one of the highest selling package ...
+   Talents are to be shared and not to be sold
+   In that single point proprietary softwares are entirely ruled out ( this includes slaves under them too :P )
+&lt;/p&gt;
+&lt;p&gt;Karthik Selvakumar:
+&lt;/p&gt;
+&lt;p&gt;@Mr.X And as the second who the hell meant you flavor denotes " studying by myself "
+&lt;/p&gt;
+&lt;p&gt;If i gonna choose Java rather VB wont there be beautiful maidens( as in my case :D ) to teach it ;)
+&lt;/p&gt;
+&lt;p&gt;why the hell I have to dig my head into that shit which I didn't even want to be heard about
+&lt;/p&gt;
+&lt;p&gt;Karthik Selvakumar"
+&lt;/p&gt;
+&lt;p&gt;@Mr.X And finally what you gonna tell from this :
+&lt;/p&gt;
+&lt;p&gt;"I was never from a comp sci background n for the sake of my interest i learnt all scripting languages, web designing, graphic designing, wat not.. all in school/coll days !!!!"
+&lt;/p&gt;
+&lt;p&gt;I cant understand what are you trying to say from this ?
+&lt;/p&gt;
+&lt;p&gt;Karthik Selvakumar:
+&lt;/p&gt;
+&lt;p&gt;@Mr.X
+&lt;/p&gt;
+&lt;p&gt;"i know production codes still running in VB5 also... ditch ur old thoughts.. not many guys r going for new development these days.. development for all majors were done years back n all IT giants doing maintenance only !!!! "
+&lt;/p&gt;
+&lt;p&gt;when u know about codes on VB5 why not about gtk and qt :P... Read More
+&lt;/p&gt;
+&lt;p&gt;Are you trying to say IT has reached its saturation point and nothing yet to do more ?
+   Then are IT workers watch dogs for an already build castle :P
+&lt;/p&gt;
+&lt;p&gt;Innovativeness can be no more if you narrow down towards single software or software provider as in your case MICROSOFT .. Think what can it do more rather providing constant support
+&lt;/p&gt;
+&lt;p&gt;Foss is not single soul , developers are not to be restricted economically as well as depraved choice less ..
+&lt;/p&gt;
+&lt;p&gt;Hence 600 billion voice can be heard all around the world , there you go!! development phase is not fixed destination as well there is no saturation point for it ( as you fix up :P )
+&lt;/p&gt;
+&lt;p&gt;Karthik Selvakumar:
+&lt;/p&gt;
+&lt;p&gt;And finally to end up if piracy is effect of crime then well proprietary software is cause :P
+   Absolutely I didnt encourage privacy ,I discourage its root
+   ( you may now call up on any one now 'Jesus' or 'muruga' who the hell helps you :P )
+&lt;/p&gt;
+&lt;p&gt;Azhagu Selvan:
+&lt;/p&gt;
+&lt;p&gt;"And finally to end up if piracy is effect of crime then well proprietary software is cause :P
+   Absolutely I didnt encourage privacy ,I discourage its root"
+&lt;/p&gt;
+&lt;p&gt;This one is fantastic da :D
+&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;Isn't interesting? Now please comment on this. 
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/stupidsyllabus-microsoft-freesoftware.html</guid><pubDate>Tue, 10 Nov 2009 20:50:34 GMT</pubDate></item><item><title>I have migrated to HiSlain</title><link>http://azhaguselvan.co.cc/blog/i-have-migrated.html</link><description>&lt;p&gt;I have sucessfully migrated to the new HiSlain blog from my old WP blog. As i said i have been contributing to this application. I ported the plaintxt theme which i have been using.
 &lt;/p&gt;
 &lt;p&gt;Now, I have wrote a &lt;a href="http://github.com/tamizhgeek/hislain-extras/scripts/wp-hislain-migrator.py"&gt;script&lt;/a&gt; which effectively migrates all the WP posts, pages, tags to &lt;a href="http://github.com/tamizhgeek/hislain"&gt;HiSlain&lt;/a&gt;. I have done my migration with my own-script and am happy :D
 &lt;/p&gt;
@@ -58,9 +216,4 @@
 &lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/tweaking-into-wordpress-got-time-stamps.html</guid><pubDate>Mon, 05 Oct 2009 21:17:44 GMT</pubDate></item><item><title>My website is again alive</title><link>http://azhaguselvan.co.cc/blog/my-website-is-again-alive.html</link><description>&lt;p&gt;My website after a host change, dropping of personal blog, complete overhaul of UI etc has went live. :P
 &lt;/p&gt;
 &lt;p&gt;Blueprint CSS saved my day. I hate tinkering with css stuff. No mood to try any CMS too. So sat back found that blueprint, and finally brought a somewhat-nice-site up. I am happy. Real happy :)
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/my-website-is-again-alive.html</guid><pubDate>Mon, 05 Oct 2009 20:24:37 GMT</pubDate></item><item><title>A patch story - TCENet</title><link>http://azhaguselvan.co.cc/blog/a-patch-story-tcenet.html</link><description>&lt;p&gt;It's my long wish to contribute code to &lt;a href="http://tcenet.tce.edu" target="_blank"&gt;TCENet &lt;/a&gt;, an F/OSS based ERP portal of my college.
-&lt;/p&gt;
-&lt;p&gt;I dint have a proper guidance, so i lacked in my progress. And there comes &lt;a href="http://sbalamurugan.wordpress.com"&gt;bala&lt;/a&gt; anna, he gave lot of suggestions, made me involved in this,encouraged, cleared my doubts without a single fuss! So, things started getting shape, and one fine evening after his approval, i sent the patch to project-mentors. After a round of review and corrections my patch was accepted. I'm damn happy :D All thanks to bala anna.
-&lt;/p&gt;
-&lt;p&gt;Later within a week my another patch was also accepted. Of-course both are trivial, stupid patches, But still it encourages me :P
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/a-patch-story-tcenet.html</guid><pubDate>Wed, 30 Sep 2009 21:21:29 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/my-website-is-again-alive.html</guid><pubDate>Mon, 05 Oct 2009 20:24:37 GMT</pubDate></item></channel></rss>
