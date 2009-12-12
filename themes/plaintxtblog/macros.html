@@ -1,4 +1,4 @@
-{% macro single_post(post, settings) %}
+{% macro single_post(blog,post,settings) %}
 <div  class="entry-header">
 <abbr><span class="data"><span class="j">{{post.meta.published.strftime("%d")}}</span>{{post.meta.published.strftime("%b/'%y")}}<span>{{post.meta.published.strftime("--%X")}}</span><span class="nr_comm"><a href="{{settings.base_url}}{{post.meta.permalink}}" class="nr_comm_spot">#</a></span></abbr>
 <h2 class="entry-title"><a rel="bookmark" href="{{settings.base_url}}{{post.meta.permalink}}" title="{{post.meta.title}}">{{post.title}}</a></h2>
@@ -7,7 +7,7 @@
 {{post.render_html()}}
 </div>
 <div class="entry-meta">
-<span class="entry-tags">Tagged as: {% for t in post.meta.tags %} <a rel="tag" href="{{settings.base_url}}tag/{{ t }}.html">{{t}}</a> {% endfor %}</span>
+<span class="entry-tags">Tagged as: {% for t in post.meta.tags %} <a rel="tag" href="{{settings.base_url}}tag/{{blog.tag_slugs[t]}}.html">{{t}}</a> {% endfor %}</span>
 <span class="meta-sep">|</span>
 <span class="entry-comments"><a href="{{settings.base_url}}{{post.meta.permalink}}#disqus_thread" class="nr_comm_spot">View Comments</a></span>
 </div>
