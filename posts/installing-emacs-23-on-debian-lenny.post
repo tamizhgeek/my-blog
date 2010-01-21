@@ -1,7 +1,7 @@
 Installing Emacs 23 on Debian lenny :-)
 permalink: installing-emacs-23-on-debian-lenny.html
-tags: debian,emacs,how-to,
-published: 2009-08-13 20:08:00
+published: 2009-08-13T20:08:00
+tags: debian, emacs, how-to, 
 
 This is as simple as that. We are going to get the latest Emacs(ie Version 23)
 source from the sid repos and build .deb's from that. Installing those resultant .deb's through dpkg is fine. But we are going to follow a cool solution in which synaptic will handle that for us :-) So here goes the entire step by step documentation.

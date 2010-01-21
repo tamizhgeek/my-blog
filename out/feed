@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Sat, 12 Dec 2009 12:32:24 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>New tamil post about telungana and my thoughts</title><link>http://azhaguselvan.co.cc/blog/new-tamil-post-telungana.html</link><description>&lt;p&gt;I have wrote a new blog post at my tamil blog.
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Fri, 22 Jan 2010 01:29:27 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>So far so good!</title><link>http://azhaguselvan.co.cc/blog/so-far-so-good.html</link><description>&lt;p&gt;yep!
+&lt;/p&gt;
+&lt;p&gt;/me has been really doing some nice things from the new year!
+&lt;/p&gt;
+&lt;p&gt;Firstly, I am writing some &lt;strong&gt;real&lt;/strong&gt; code for &lt;a href="http://tcenet.tce.edu"&gt;TCENet&lt;/a&gt;(yay!)
+&lt;/p&gt;
+&lt;p&gt;.., and then this &lt;a href="http://thefirstlecture.tk"&gt;TFL&lt;/a&gt; happened :P All credits goes to &lt;a href="http://meetgautham.co.cc"&gt;gautham&lt;/a&gt; who told this idea, organised things suffered to make it a sucess. But still am contributing a tiny part for it. So I have my rights to be proud ;-)
+   If this TFL continues to be success, then it will bring up a great break-through in &lt;a href="http://tce.edu"&gt;TCE&lt;/a&gt;'s knowledge seeking/sharing
+   community.
+&lt;/p&gt;
+&lt;p&gt;.., then we're supposed to make a website for LOSA - A state level interschool cultural meet organised by &lt;a href="http://www.tvslakshmischool.org/"&gt;TVS&lt;/a&gt; alumnis.
+   Since that website is also supposed to host online events too, I can see a loads of oppurtunity to test my coding 
+   skills ahead :-D 
+&lt;/p&gt;
+&lt;p&gt;Then this mock-interview from the placement training classes happened. To my suprise I got a very nice feedback about my way
+   of communication and my resume :) The areas I lack were the questions shitty papers I studied in my previous semesters. Learning concepts in them is no big deal. I am really happy that I am way ahead from many of my mates in communication, which i thought i would be lacking at the worst :-D
+&lt;/p&gt;
+&lt;p&gt;.., and finally here came a situation/work which forces me to learn designing stuff like jQuery/YUI etc which I wish to learn but was avoiding for a long time.
+&lt;/p&gt;
+&lt;p&gt;So ah yes, azhaguselvan is/was/would be busy for atleast another few weeks doing &lt;em&gt;really&lt;/em&gt; useful things ;-)
+&lt;/p&gt;
+&lt;p&gt;I can't end this without being mentioning about the two awesome parties happened - one before new year night and one in the next week at &lt;a href="http://en.wikipedia.org/wiki/Kodaikanal"&gt;KODAI&lt;/a&gt; :-D
+&lt;/p&gt;
+&lt;p&gt;I love my life :)
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/so-far-so-good.html</guid><pubDate>Fri, 22 Jan 2010 01:29:25 GMT</pubDate></item><item><title>New tamil post about telungana and my thoughts</title><link>http://azhaguselvan.co.cc/blog/new-tamil-post-telungana.html</link><description>&lt;p&gt;I have wrote a new blog post at my tamil blog.
    People who read newspapers daily, who are feeling proud of being a tamizhian, who loves tamizh will find that post interesting. 
 &lt;/p&gt;
 &lt;p&gt;--&amp;gt;&lt;a href="http://azhaguselvan.blogspot.com/"&gt;Read it here&lt;/a&gt;
@@ -214,7 +238,4 @@
 &lt;p&gt;Actually I have hosted it in google-code with svn repository. Then using git-svn cloned that into a git repo and  tinkering locally with it. Git-svn is an awesome tool. I just have code over there in google-severs just for a backup- and  I can also say I have a project hosted there in google code. :P
 &lt;/p&gt;
 &lt;p&gt;But still git-svn is a suitable tool for people loving svn but also need the distributed thingy from git. Commit locally, review it, strash it, re-commit and push everything to remote side at a single shot. yay!! :D
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/am-happy-with-git.html</guid><pubDate>Tue, 06 Oct 2009 04:33:37 GMT</pubDate></item><item><title>Tweaking into wordpress-got time stamps</title><link>http://azhaguselvan.co.cc/blog/tweaking-into-wordpress-got-time-stamps.html</link><description>&lt;p&gt;Just found out how to get time-stamps printed along with the date in the post headings of plaintxt theme :) Tweaking into wordpress is great fun. Soon or later, i will start contributing to wordpress.
-&lt;/p&gt;
-&lt;p&gt;Just i had to figure out the function which returns the post-time and call it in the code which builds the header for each post :)
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/tweaking-into-wordpress-got-time-stamps.html</guid><pubDate>Mon, 05 Oct 2009 21:17:44 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/am-happy-with-git.html</guid><pubDate>Tue, 06 Oct 2009 04:33:37 GMT</pubDate></item></channel></rss>

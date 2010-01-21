@@ -1,7 +1,7 @@
 HiSlain !!
 permalink: hislain.html
-tags: hacking,hislain,
-published: 2009-10-08 03:36:55
+published: 2009-10-08T03:36:55
+tags: hacking, hislain, 
 
 Now am seriously into this. I was reading through the code of this pretty app from 6.30 morning today. Its sooper cool and i am simply amazed. Finished off the functionality code part. I have to learn that jinja2 templating language used in that. The first task  I''d would like to do - is porting this 'plaintxtblog' theme to HiSlain. I'm sure i am going to start it *right now* . I slightly remember, i have analysis of algorithms exams tomorrow. But who cares?
 
