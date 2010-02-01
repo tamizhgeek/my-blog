@@ -1,0 +1,19 @@
+Configuring POP3 in ThunderBird 3 - Stupid hack
+permalink: thunderbird3-pop3-setup-hack.html
+published: 2010-02-01T23:34:08.838847
+tags: thunderbird, setup, stupid
+
+Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.
+
+But hell I need POP3 with my gmail. In TB-3 there is no *direct* manual option to choose POP3 as the server type. 
+
+So after entering the login credentials, just click continue. 
+
+And on the next screen, while it searches for the servers, click on the tiny stop link on the right top.
+
+Now you have got the manual options to select POP3. :-D Courtesy : [click here](http://getsatisfaction.com/mozilla_messaging/topics/how_do_i_set_up_pop3_accounts_on_the_lastest_version_on_thunderbird)!
+
+
+But this is a stupid hack - for such a famous client they must have provided this option so that users can do it directly.
+
+Hope they change it soon!

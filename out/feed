@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Fri, 29 Jan 2010 00:43:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>New tamil post about Tamil Hero Muthu Kumar</title><link>http://azhaguselvan.co.cc/blog/new-tamil-post-muthukumar.html</link><description>&lt;p&gt;New post commemorating the late tamil hero Muthu kumran in his memory on his first death anniversary.
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Mon, 01 Feb 2010 23:34:10 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Configuring POP3 in ThunderBird 3 - Stupid hack</title><link>http://azhaguselvan.co.cc/blog/thunderbird3-pop3-setup-hack.html</link><description>&lt;p&gt;Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.
+&lt;/p&gt;
+&lt;p&gt;But hell I need POP3 with my gmail. In TB-3 there is no &lt;em&gt;direct&lt;/em&gt; manual option to choose POP3 as the server type. 
+&lt;/p&gt;
+&lt;p&gt;So after entering the login credentials, just click continue. 
+&lt;/p&gt;
+&lt;p&gt;And on the next screen, while it searches for the servers, click on the tiny stop link on the right top.
+&lt;/p&gt;
+&lt;p&gt;Now you have got the manual options to select POP3. :-D Courtesy : &lt;a href="http://getsatisfaction.com/mozilla_messaging/topics/how_do_i_set_up_pop3_accounts_on_the_lastest_version_on_thunderbird"&gt;click here&lt;/a&gt;!
+&lt;/p&gt;
+&lt;p&gt;But this is a stupid hack - for such a famous client they must have provided this option so that users can do it directly.
+&lt;/p&gt;
+&lt;p&gt;Hope they change it soon!
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/thunderbird3-pop3-setup-hack.html</guid><pubDate>Mon, 01 Feb 2010 23:34:08 GMT</pubDate></item><item><title>New tamil post about Tamil Hero Muthu Kumar</title><link>http://azhaguselvan.co.cc/blog/new-tamil-post-muthukumar.html</link><description>&lt;p&gt;New post commemorating the late tamil hero Muthu kumran in his memory on his first death anniversary.
    --&amp;gt; &lt;a href="http://azhaguselvan.blogspot.com/2010/01/blog-post_29.html"&gt;Read it here&lt;/a&gt;
 &lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/new-tamil-post-muthukumar.html</guid><pubDate>Fri, 29 Jan 2010 00:43:18 GMT</pubDate></item><item><title>BSNL - you CRAP!!</title><link>http://azhaguselvan.co.cc/blog/bsnl-you-crap.html</link><description>&lt;p&gt;I was/is having a very bad experience with BSNL broadband. 
 &lt;/p&gt;
@@ -258,7 +271,4 @@
 &lt;p&gt;I heard pothy's were making lot-of-lakhs business per day in madurai. May be they could have saved some lakhs, if the have used &lt;em&gt;GNU/Linux&lt;/em&gt; .
 &lt;/p&gt;
 &lt;p&gt;Thats it :)
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/you-may-find-this-interesting-d.html</guid><pubDate>Wed, 07 Oct 2009 16:45:18 GMT</pubDate></item><item><title>What's my problem ?!</title><link>http://azhaguselvan.co.cc/blog/whats-my-problem.html</link><description>&lt;p&gt;When I get my exams going on, and time running ahead of me - I always see a rapidly increasing interest towards learning new-tools, know about new projects, read interesting blogs!! :-/ Should I laugh at me? Should kick my stupid mind?? I don't know.
-&lt;/p&gt;
-&lt;p&gt;Shyte. :(
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/whats-my-problem.html</guid><pubDate>Tue, 06 Oct 2009 16:41:35 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/you-may-find-this-interesting-d.html</guid><pubDate>Wed, 07 Oct 2009 16:45:18 GMT</pubDate></item></channel></rss>
