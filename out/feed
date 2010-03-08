@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Mon, 01 Feb 2010 23:34:10 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Configuring POP3 in ThunderBird 3 - Stupid hack</title><link>http://azhaguselvan.co.cc/blog/thunderbird3-pop3-setup-hack.html</link><description>&lt;p&gt;Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Mon, 08 Mar 2010 20:15:30 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Why gawd why me?</title><link>http://azhaguselvan.co.cc/blog/why-gwad-why-me.html</link><description>&lt;p&gt;Those are times when I never cared about exams. Didn't even try to study - not atleast for the level of getting a pass mark. Enjoyed doing all sort of things on the night before exams. Not even have touched the book and went to attend a exam. But all the way through - something I beleive to be my luck saved me - I have passed exams in what I thought i would get a &lt;em&gt;single&lt;/em&gt; digit score!!
+&lt;/p&gt;
+&lt;p&gt;..but now, I have determined to study - try atleast. I have been doing that too!
+   Even my parents were amazed to see me awake at morning 5 for &lt;em&gt;studying&lt;/em&gt; after some 3+ years! But now too the shit called luck haunts me - bad luck. I am performing friggin bad as if I haven't prepared! WTF?
+&lt;/p&gt;
+&lt;p&gt;Why me??
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/why-gwad-why-me.html</guid><pubDate>Mon, 08 Mar 2010 20:15:29 GMT</pubDate></item><item><title>Configuring POP3 in ThunderBird 3 - Stupid hack</title><link>http://azhaguselvan.co.cc/blog/thunderbird3-pop3-setup-hack.html</link><description>&lt;p&gt;Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.
 &lt;/p&gt;
 &lt;p&gt;But hell I need POP3 with my gmail. In TB-3 there is no &lt;em&gt;direct&lt;/em&gt; manual option to choose POP3 as the server type. 
 &lt;/p&gt;
@@ -256,19 +262,4 @@
 &lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</guid><pubDate>Mon, 12 Oct 2009 21:08:28 GMT</pubDate></item><item><title>HiSlain !!</title><link>http://azhaguselvan.co.cc/blog/hislain.html</link><description>&lt;p&gt;Now am seriously into this. I was reading through the code of this pretty app from 6.30 morning today. Its sooper cool and i am simply amazed. Finished off the functionality code part. I have to learn that jinja2 templating language used in that. The first task  I''d would like to do - is porting this 'plaintxtblog' theme to HiSlain. I'm sure i am going to start it &lt;em&gt;right now&lt;/em&gt; . I slightly remember, i have analysis of algorithms exams tomorrow. But who cares?
 &lt;/p&gt;
 &lt;p&gt;As i said &lt;em&gt;i&lt;/em&gt;am_seriously_into_this :P
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/hislain.html</guid><pubDate>Thu, 08 Oct 2009 03:36:55 GMT</pubDate></item><item><title>You may find this interesting :D</title><link>http://azhaguselvan.co.cc/blog/you-may-find-this-interesting-d.html</link><description>&lt;p&gt;Deepavali time here - so people are thronging the textile shops all over the city, Madurai.
-&lt;/p&gt;
-&lt;p&gt;Pothy's - recent entrant in madurai's textile market is having a big time here - people of madurai are running mad over their shop and I can see always loads of people shopping in there. STOP. What the heck in this is related to a meaningful blog-post?.Don't waste our time over your personal non-sense.
-&lt;/p&gt;
-&lt;p&gt;There is! Read on.
-&lt;/p&gt;
-&lt;p&gt;They have a centralized billing system which operates all the computers in their 5 floors. Today, we saw a large crowd shouting before every billing counter - "Ah we re getting late" "enna than ya panrrenga??" "oru bill poda ivalo nerama?!"
-&lt;/p&gt;
-&lt;p&gt;Then said the pothy's guy -" machine hang aiduchu sir. etho virus pola!" - Ha ha - poor windows users. The same is the case in all floors and soon people started piling up before each counter. The pothy's were forced to stop their business, stop new customers entering from then. I laughed at them  sarcastically and came out.
-&lt;/p&gt;
-&lt;p&gt;OK. Now the point is,
-&lt;/p&gt;
-&lt;p&gt;I heard pothy's were making lot-of-lakhs business per day in madurai. May be they could have saved some lakhs, if the have used &lt;em&gt;GNU/Linux&lt;/em&gt; .
-&lt;/p&gt;
-&lt;p&gt;Thats it :)
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/you-may-find-this-interesting-d.html</guid><pubDate>Wed, 07 Oct 2009 16:45:18 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/hislain.html</guid><pubDate>Thu, 08 Oct 2009 03:36:55 GMT</pubDate></item></channel></rss>
