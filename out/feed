@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Fri, 26 Mar 2010 01:58:46 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>A perfect day!</title><link>http://azhaguselvan.co.cc/blog/a-perfect-day.html</link><description>&lt;p&gt;Today is a perfect day with lot of nice things happened. Ouch! it's not today., but yesterday!!
+<rss version="2.0"><channel><title>From A random engineer</title><link>http://azhaguselvan.co.cc/blog/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Wed, 14 Apr 2010 13:28:12 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>CodersCombat launched!</title><link>http://azhaguselvan.co.cc/blog/coderscombat-launched.html</link><description>&lt;p&gt;Today we launched a new project hosting service 'Coders Combat' - &lt;a href="http://coderscombat.com"&gt;http://coderscombat.com&lt;/a&gt;. 
+   We offer very low cost online colloboration platform to small eneterprises and students
+   to organise their projects effectively. 
+&lt;/p&gt;
+&lt;p&gt;It is powered by a free software tool called &lt;a href="http://redmine.org"&gt;redmine&lt;/a&gt;. As it is backed by a
+   free software tool, it is going to be stable, fully supportive and robust. For more features visit
+   our website :)
+&lt;/p&gt;
+&lt;p&gt;And I am an entreprenuer in college :D 
+   w0000t!!!!
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/coderscombat-launched.html</guid><pubDate>Wed, 14 Apr 2010 13:28:10 GMT</pubDate></item><item><title>A perfect day!</title><link>http://azhaguselvan.co.cc/blog/a-perfect-day.html</link><description>&lt;p&gt;Today is a perfect day with lot of nice things happened. Ouch! it's not today., but yesterday!!
    It's already 1.47 midnight.
 &lt;/p&gt;
 &lt;p&gt;First I helped my friend to make the software club idea to take off in my &lt;a href="http://tce.edu"&gt;college&lt;/a&gt;. Then I had a interview - the first time in my life :D It was an phone interview for a internship oppurtunity with a startup. And w0000t, it went perfectly well :)
@@ -265,9 +275,4 @@
 &lt;p&gt;Current implementation has no built-in FTP. So am manually transferring files from my PC to web server. Will think of intergrating FTP support - yuvi also promised to do that. But i can't wait for that - I have migrated. And you re now in my HiSlain blog.
 &lt;/p&gt;
 &lt;p&gt;Now yuvi should also be happy.
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/i-have-migrated.html</guid><pubDate>Thu, 22 Oct 2009 01:28:32 GMT</pubDate></item><item><title>I am shifting again :P</title><link>http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</link><description>&lt;p&gt;I have started hacking with HiSlain application. I have successfully ported the plaintxtblog theme - my blog currently using it - to the HiSlain blog engine. It works cool in my local setup. You can find the code here - &amp;lt;http://github.com/tamizhgeek/my-blog&amp;gt; :P
-&lt;/p&gt;
-&lt;p&gt;Now, am looking into the exported XML file from the wordpress installation - that has all my blog entries. Thinking of writing a script to parse that and write the output as needed by HiSlain to make my transition smoother. This can also pave way for the wordpress -&amp;gt; HiSlain converter tool :D
-&lt;/p&gt;
-&lt;p&gt;But not now. I'm done for today. Gonna crash to sleep at once. Grrrrr.
-&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/i-am-shifting-again-p.html</guid><pubDate>Mon, 12 Oct 2009 21:08:28 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><guid isPermaLink="true">http://azhaguselvan.co.cc/blog/i-have-migrated.html</guid><pubDate>Thu, 22 Oct 2009 01:28:32 GMT</pubDate></item></channel></rss>
