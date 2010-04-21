@@ -40,9 +40,7 @@ body div.sidebar h3 {text-decoration: underline; font-style: italic; }
 <h3>About</h3>
 
 <ul>
- <li>
-     Azhaguselvan a budding <em>engineer</em> from Madurai. Loves computers and lives mostly with them.
- </li>
+<li>Azhaguselvan a budding <em>engineer</em> from Madurai. Loves computers and lives mostly with them.</li>
 </ul>
 
 </li>
@@ -53,21 +51,10 @@ body div.sidebar h3 {text-decoration: underline; font-style: italic; }
 <h3>My web presence</h3>
 
 <ul>
- <li>
-     Mail: azhaguselvan@gmx.com
- </li>
-
- <li>
-     GTalk: selva4210
- </li>
-
- <li>
-     Twitter: <a href="http://twitter.com/azhaguselvan">azhaguselvan</a>
- </li>
-
- <li>
-     GitHub: <a href="http://github.com/tamizhgeek">tamizhgeek</a>
- </li>
+<li>Mail: azhaguselvan@gmx.com</li>
+<li>GTalk: selva4210</li>
+<li>Twitter: <a href="http://twitter.com/azhaguselvan">azhaguselvan</a></li>
+<li>GitHub: <a href="http://github.com/tamizhgeek">tamizhgeek</a></li>
 </ul>
 
 </li>
@@ -77,8 +64,7 @@ body div.sidebar h3 {text-decoration: underline; font-style: italic; }
 <li id="categories">
 <h3>Legal</h3>
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/in/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/in/88x31.png" /></a><br />This <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/in/">Creative Commons Attribution-Noncommercial-Share Alike 2.5 India License</a>.
-</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/in/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/in/88x31.png" /></a><br />This <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/in/">Creative Commons Attribution-Noncommercial-Share Alike 2.5 India License</a>.</p>
 
 </li>
 
@@ -122,44 +108,38 @@ body div.sidebar h3 {text-decoration: underline; font-style: italic; }
 </div>
 <div class="entry-content">
 <p>This is as simple as that. We are going to get the latest Emacs(ie Version 23)
-   source from the sid repos and build .deb's from that. Installing those resultant .deb's through dpkg is fine. But we are going to follow a cool solution in which synaptic will handle that for us :-) So here goes the entire step by step documentation.
-</p>
-<p>Note: You need to do all the following steps with root privileges.
-</p>
+source from the sid repos and build .deb's from that. Installing those resultant .deb's through dpkg is fine. But we are going to follow a cool solution in which synaptic will handle that for us :-) So here goes the entire step by step documentation.</p>
+<p>Note: You need to do all the following steps with root privileges.</p>
 <p>1)edit your sources.list to add sid repository. Add only the deb-src.
-   <blockquote>cd /etc/apt
-   gedit sources.list</blockquote>
-   2)add the following line to the sources.list file.
-   <blockquote>deb-src http://ftp.debian.org/debian/ sid main</blockquote>
-   3)now run the following commands in the terminal
-   <blockquote>apt-get build-dep emacs23
-   apt-get -b source emacs23</blockquote>
-   This will create the .deb packages needed to install Emacs 23. Whooa!! :-)
-   but wait, the Emacs 23 depends on latest texinfo package. So now you have to back port that too.
-   Repeat the same steps for texinfo. i.e
-   <blockquote>apt-get build-dep texinfo
-   apt-get -b source texinfo</blockquote>
-   Now we are done with all the .deb's needed to install Emacs 23.
-</p>
+<blockquote>cd /etc/apt
+gedit sources.list</blockquote>
+2)add the following line to the sources.list file.
+<blockquote>deb-src http://ftp.debian.org/debian/ sid main</blockquote>
+3)now run the following commands in the terminal
+<blockquote>apt-get build-dep emacs23
+apt-get -b source emacs23</blockquote>
+This will create the .deb packages needed to install Emacs 23. Whooa!! :-)
+but wait, the Emacs 23 depends on latest texinfo package. So now you have to back port that too.
+Repeat the same steps for texinfo. i.e
+<blockquote>apt-get build-dep texinfo
+apt-get -b source texinfo</blockquote>
+Now we are done with all the .deb's needed to install Emacs 23.</p>
 <p>4) You may install those directly from command line through dpkg. But as i said earlier the coolest part will be doing that by synpatic :) So, copy all the .deb packages built to /home/user_name/packages. See change the user name to your user name.
-   <blockquote>cp *.deb /home/user_name/packages/
-   cd /home/user_name/packages</blockquote>
-   5)Now do the following command to create the Packages.gz file that is needed to for Synaptic to “see” your repository
-   <blockquote>dpkg-scanpackages . /dev/null | gzip -9c &gt; Packages.gz</blockquote>
-   Be sure to install the build-essential package (aptitude install build-essential) before running the above command.
-</p>
+<blockquote>cp *.deb /home/user_name/packages/
+cd /home/user_name/packages</blockquote>
+5)Now do the following command to create the Packages.gz file that is needed to for Synaptic to “see” your repository
+<blockquote>dpkg-scanpackages . /dev/null | gzip -9c &gt; Packages.gz</blockquote>
+Be sure to install the build-essential package (aptitude install build-essential) before running the above command.</p>
 <p>6)Now its time to open the sources.list again. Open it and add the following line.
-   <blockquote>deb file:/home/user_name/packages/ /</blockquote>
-   7) You are done :-) Just run
-   <blockquote>apt-get update</blockquote>
-   Once its over you can install Emacs 23 from synaptic.:D Install it.
-   Enjoy PDF-viewing, anti-aliased fonts,Unicode suport and many <a href="http://www.gnu.org/software/emacs/">more</a>. Have fun !
-</p>
-<p>Thanks to an <a href="http://odzangba.wordpress.com/2006/10/13/how-to-build-local-apt-repositories/">african blogger</a> and gravity(nick) who replied to my queries in #debian IRC channel.
-</p>
+<blockquote>deb file:/home/user_name/packages/ /</blockquote>
+7) You are done :-) Just run
+<blockquote>apt-get update</blockquote>
+Once its over you can install Emacs 23 from synaptic.:D Install it.
+Enjoy PDF-viewing, anti-aliased fonts,Unicode suport and many <a href="http://www.gnu.org/software/emacs/">more</a>. Have fun !</p>
+<p>Thanks to an <a href="http://odzangba.wordpress.com/2006/10/13/how-to-build-local-apt-repositories/">african blogger</a> and gravity(nick) who replied to my queries in #debian IRC channel.</p>
 </div>
 <div class="entry-meta">
-<span class="entry-tags">Tagged as:  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/debian.html">debian</a>  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/.html">emacs</a>  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/how-to.html">how-to</a>  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/.html"></a> </span>
+<span class="entry-tags">Tagged as:  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/debian.html">debian</a>  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/emacs.html">emacs</a>  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/how-to.html">how-to</a>  <a rel="tag" href="http://azhaguselvan.co.cc/blog/tag/.html"></a> </span>
 <span class="meta-sep">|</span>
 <span class="entry-comments"><a href="http://azhaguselvan.co.cc/blog/installing-emacs-23-on-debian-lenny.html#disqus_thread" class="nr_comm_spot">View Comments</a></span>
 </div>
