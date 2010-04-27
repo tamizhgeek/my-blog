@@ -2,6 +2,7 @@ import os
 from core import Block
 
 def main(blog):
+    print "executing plugin blocks.py"
     blog.blocks = []
     blocks_path = os.path.join(blog.settings['blog_dir'],'blocks')
     for block_name in blog.settings['blocks']:
