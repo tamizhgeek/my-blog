@@ -25,7 +25,7 @@ def main(blog):
 
         output_path = "tag/%s.html" % tag_name
 
-        output_text = output_text+"<a href=\""+output_path+"\" style=\"font-size:"+str(font_size)+"px;\">"+tag_name+"</a>"
+        output_text = output_text+"<a href=\""+blog.settings['base_url']+output_path+"\" style=\"font-size:"+str(font_size)+"px;\">"+tag_name+"</a>"
         
     block_dir = os.path.join(blog.settings['blog_dir'], "blocks")
 
