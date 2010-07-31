@@ -1,7 +1,7 @@
 I am shifting again :P
 permalink: i-am-shifting-again-p.html
-published: 2009-10-12T21:08:28
 tags: code, hislain, wordpress, xml, 
+published: 2009-10-12T21:08:28
 
 I have started hacking with HiSlain application. I have successfully ported the plaintxtblog theme - my blog currently using it - to the HiSlain blog engine. It works cool in my local setup. You can find the code here - &lt;http://github.com/tamizhgeek/my-blog&gt; :P
 

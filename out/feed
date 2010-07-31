@@ -1,133 +1,115 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 27 May 2010 11:21:15 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Talk on Version control systems and git</title><link>http://blog.azhaguselvan.co.cc/talk-on-version-control-systems.html</link><description>&lt;p&gt;OK, This is very late. Actually on the last thursday ( May 21st) myself and my friend gave a talk on Version control systems and git in &lt;a href="http://www.klncit.edu.in/"&gt;KLN College of engineering and technology&lt;/a&gt; for the &lt;a href="http://madurai.gtugs.org"&gt;GTUG/OSUG&lt;/a&gt; Summer camp organised by the guys there.
-&lt;/p&gt;
-&lt;p&gt;There were around 90 people there in the hall and it was supposed to be a presentation with an hands-on session. But only after reaching there we came know that, git and other tools are not installed on their computers. Their internet connection is also a sucky one :( So limited our session to a talk and  a demo on our laptop. 
-&lt;/p&gt;
-&lt;p&gt;I talked about the concepts of version control systems, why we need it?, what it can do? and the difference about distributed and centralised models etc etc. I also gave a brief intro about the history of git. The audience had no idea of software development, so had to keep my talk very minimally technical. 
-&lt;/p&gt;
-&lt;p&gt;Next my friend &lt;a href="http://karthik.tk"&gt;Karthik&lt;/a&gt; continued and talked about the git command line tool, demo'ed and explained some of the basic commands. There was literally no response from the crowd but after the day when we asked some guys personally, they said that the session was nice :D
-&lt;/p&gt;
-&lt;p&gt;There were also other sessions on the day handled by my college-mates on Virtual box, Linux networking, Subversion and GIMP :)
-&lt;/p&gt;
-&lt;p&gt;The KLN guys were nice and their hospitality is good. Overall a awesome day for me, cos it killed the remaining bits of fear in me about addressing a crowd :D
-&lt;/p&gt;
-&lt;p&gt;The presentation slides are here - http://blog.azhaguselvan.co.cc/files/vcs.pdf
-&lt;/p&gt;
-&lt;p&gt;PS: Thanks to &lt;a href="http://stylesen.org"&gt;stylesen&lt;/a&gt; for his &lt;a href="http://stylesen.org/files/version_control_systems.pdf"&gt;presentation&lt;/a&gt; on Version control systems.
-&lt;/p&gt;
-&lt;p&gt;PSS: I have used latex-beamer to prepare presentations for this and it uber-cool :P
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/talk-on-version-control-systems.html</guid><pubDate>Thu, 27 May 2010 11:09:17 GMT</pubDate></item><item><title>Website updation in progress</title><link>http://blog.azhaguselvan.co.cc/website-updation-in-progress.html</link><description>&lt;p&gt;After seeing my friend's &lt;a href="http://meetgautham.co.cc"&gt;site&lt;/a&gt; here, I was very impressed and wish my
-   site would also have such neat, cool and clean design. Actually I hate designing and css stuff.
-   But yet I decided to get my hands over it and try as far as I could. So my website design is in the process of updation. 
-&lt;/p&gt;
-&lt;p&gt;A tiny part - designing a new header is finished. Have a look :)
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/website-updation-in-progress.html</guid><pubDate>Sat, 24 Apr 2010 16:46:21 GMT</pubDate></item><item><title>CodersCombat launched!</title><link>http://blog.azhaguselvan.co.cc/coderscombat-launched.html</link><description>&lt;p&gt;Today we launched a new project hosting service 'Coders Combat' - &lt;a href="http://coderscombat.com"&gt;http://coderscombat.com&lt;/a&gt;. 
-   We offer very low cost online colloboration platform to small eneterprises and students
-   to organise their projects effectively. 
-&lt;/p&gt;
+<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Sat, 31 Jul 2010 16:12:39 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Now I'm an Arch user :D</title><link>http://blog.azhaguselvan.co.cc/now-i-am-an-arch-user.html</link><description>&lt;p&gt;After a lot of failed attempts, I have now installed archlinux and typing this from a arch box. Yay!
+The urge to install archlinux came after reading through the blog posts of my friend gautham, &lt;a href="http://meetgautham.co.cc/blog/2009/revisiting-linux-random-jottings/"&gt;here&lt;/a&gt;,
+and &lt;a href="http://meetgautham.co.cc/blog/2010/my-distro-story/"&gt;here&lt;/a&gt;. I have tried to install thrice before this successful attempt,
+in each I was left struck at different steps. On my last attempt, I have installed the base system, but only came to know
+that I should have a &lt;em&gt;huge&lt;/em&gt; bandwidth to download all the packages to install. That time I was using the BSNL 1.5 GB plan :(
+So dropped that idea altogether.&lt;/p&gt;
+&lt;p&gt;After ever since changing to airtel unlimited plan, was planning to install Arch and now I HAVE DONE :D. And the installation
+ride was awesome fun! I have activated GPRS in my mobile and opened the archwiki beginners guide in it's browser :P
+So keeping that in hand I followed step-by-step and successfully installed arch+GNOME. Then gautham suggested to chuck the
+desktop environments and go for a window manager based setup. So installed fluxbox :D&lt;/p&gt;
+&lt;p&gt;So my PC now has this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Basic Arch setup&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fluxbox window manager&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Idesk for managing the Desktop&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;feh for image viewer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VLC :)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Firefox 3.6&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;nautilus file manager, with --no-desktop option (rox is too rusty!) ;-)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;of course Conky!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That's it! Installing all these and configuring them is really a superb experience. I have learned and learning a lot.
+But I seriously doubt whether I would have this time and patience to build and configure this whole system, when
+something is going to b0rk :)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/now-i-am-an-arch-user.html</guid><pubDate>Sat, 31 Jul 2010 16:12:38 GMT</pubDate></item><item><title>Talk on Version control systems and git</title><link>http://blog.azhaguselvan.co.cc/talk-on-version-control-systems.html</link><description>&lt;p&gt;OK, This is very late. Actually on the last thursday ( May 21st) myself and my friend gave a talk on Version control systems and git in &lt;a href="http://www.klncit.edu.in/"&gt;KLN College of engineering and technology&lt;/a&gt; for the &lt;a href="http://madurai.gtugs.org"&gt;GTUG/OSUG&lt;/a&gt; Summer camp organised by the guys there.&lt;/p&gt;
+&lt;p&gt;There were around 90 people there in the hall and it was supposed to be a presentation with an hands-on session. But only after reaching there we came know that, git and other tools are not installed on their computers. Their internet connection is also a sucky one :( So limited our session to a talk and  a demo on our laptop. &lt;/p&gt;
+&lt;p&gt;I talked about the concepts of version control systems, why we need it?, what it can do? and the difference about distributed and centralised models etc etc. I also gave a brief intro about the history of git. The audience had no idea of software development, so had to keep my talk very minimally technical. &lt;/p&gt;
+&lt;p&gt;Next my friend &lt;a href="http://karthik.tk"&gt;Karthik&lt;/a&gt; continued and talked about the git command line tool, demo'ed and explained some of the basic commands. There was literally no response from the crowd but after the day when we asked some guys personally, they said that the session was nice :D&lt;/p&gt;
+&lt;p&gt;There were also other sessions on the day handled by my college-mates on Virtual box, Linux networking, Subversion and GIMP :)&lt;/p&gt;
+&lt;p&gt;The KLN guys were nice and their hospitality is good. Overall a awesome day for me, cos it killed the remaining bits of fear in me about addressing a crowd :D&lt;/p&gt;
+&lt;p&gt;The presentation slides are here - http://blog.azhaguselvan.co.cc/files/vcs.pdf&lt;/p&gt;
+&lt;p&gt;PS: Thanks to &lt;a href="http://stylesen.org"&gt;stylesen&lt;/a&gt; for his &lt;a href="http://stylesen.org/files/version_control_systems.pdf"&gt;presentation&lt;/a&gt; on Version control systems.&lt;/p&gt;
+&lt;p&gt;PSS: I have used latex-beamer to prepare presentations for this and it uber-cool :P&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/talk-on-version-control-systems.html</guid><pubDate>Thu, 27 May 2010 11:09:17 GMT</pubDate></item><item><title>Website updation in progress</title><link>http://blog.azhaguselvan.co.cc/website-updation-in-progress.html</link><description>&lt;p&gt;After seeing my friend's &lt;a href="http://meetgautham.co.cc"&gt;site&lt;/a&gt; here, I was very impressed and wish my
+site would also have such neat, cool and clean design. Actually I hate designing and css stuff.
+But yet I decided to get my hands over it and try as far as I could. So my website design is in the process of updation. &lt;/p&gt;
+&lt;p&gt;A tiny part - designing a new header is finished. Have a look :)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/website-updation-in-progress.html</guid><pubDate>Sat, 24 Apr 2010 16:46:21 GMT</pubDate></item><item><title>CodersCombat launched!</title><link>http://blog.azhaguselvan.co.cc/coderscombat-launched.html</link><description>&lt;p&gt;Today we launched a new project hosting service 'Coders Combat' - &lt;a href="http://coderscombat.com"&gt;http://coderscombat.com&lt;/a&gt;. 
+We offer very low cost online colloboration platform to small eneterprises and students
+to organise their projects effectively. &lt;/p&gt;
 &lt;p&gt;It is powered by a free software tool called &lt;a href="http://redmine.org"&gt;redmine&lt;/a&gt;. As it is backed by a
-   free software tool, it is going to be stable, fully supportive and robust. For more features visit
-   our website :)
-&lt;/p&gt;
+free software tool, it is going to be stable, fully supportive and robust. For more features visit
+our website :)&lt;/p&gt;
 &lt;p&gt;And I am an entreprenuer in college :D 
-   w0000t!!!!
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/coderscombat-launched.html</guid><pubDate>Wed, 14 Apr 2010 13:28:10 GMT</pubDate></item><item><title>A perfect day!</title><link>http://blog.azhaguselvan.co.cc/a-perfect-day.html</link><description>&lt;p&gt;Today is a perfect day with lot of nice things happened. Ouch! it's not today., but yesterday!!
-   It's already 1.47 midnight.
-&lt;/p&gt;
-&lt;p&gt;First I helped my friend to make the software club idea to take off in my &lt;a href="http://tce.edu"&gt;college&lt;/a&gt;. Then I had a interview - the first time in my life :D It was an phone interview for a internship oppurtunity with a startup. And w0000t, it went perfectly well :)
-&lt;/p&gt;
-&lt;p&gt;Then I had this one long conversation with a senior regarding the fate and blockade of &lt;a href="http://tcenet.tce.edu"&gt;TCENet&lt;/a&gt; development. Revealed a lot of frigging secrets :P
-&lt;/p&gt;
-&lt;p&gt;After all this happened, an call with &lt;a href="http://sbalamurugan.wordpress.com"&gt;bala&lt;/a&gt; anna., he explained/revealed many awesome things - which added a extra dose of happiness. Finally it's gonna end with some code - went out as patches to TCENet and gone into &lt;a href="http://github.com/tamizhgeek/RemoteAdmin"&gt;Remote Admin&lt;/a&gt; as local commits. 
-&lt;/p&gt;
+w0000t!!!!&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/coderscombat-launched.html</guid><pubDate>Wed, 14 Apr 2010 13:28:10 GMT</pubDate></item><item><title>A perfect day!</title><link>http://blog.azhaguselvan.co.cc/a-perfect-day.html</link><description>&lt;p&gt;Today is a perfect day with lot of nice things happened. Ouch! it's not today., but yesterday!!
+It's already 1.47 midnight.&lt;/p&gt;
+&lt;p&gt;First I helped my friend to make the software club idea to take off in my &lt;a href="http://tce.edu"&gt;college&lt;/a&gt;. Then I had a interview - the first time in my life :D It was an phone interview for a internship oppurtunity with a startup. And w0000t, it went perfectly well :)&lt;/p&gt;
+&lt;p&gt;Then I had this one long conversation with a senior regarding the fate and blockade of &lt;a href="http://tcenet.tce.edu"&gt;TCENet&lt;/a&gt; development. Revealed a lot of frigging secrets :P&lt;/p&gt;
+&lt;p&gt;After all this happened, an call with &lt;a href="http://sbalamurugan.wordpress.com"&gt;bala&lt;/a&gt; anna., he explained/revealed many awesome things - which added a extra dose of happiness. Finally it's gonna end with some code - went out as patches to TCENet and gone into &lt;a href="http://github.com/tamizhgeek/RemoteAdmin"&gt;Remote Admin&lt;/a&gt; as local commits. &lt;/p&gt;
 &lt;p&gt;And know what, me going off to chennai for this weekend :D 
-   woohoo!
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/a-perfect-day.html</guid><pubDate>Fri, 26 Mar 2010 01:58:44 GMT</pubDate></item><item><title>Why gawd why me?</title><link>http://blog.azhaguselvan.co.cc/why-gwad-why-me.html</link><description>&lt;p&gt;Those are times when I never cared about exams. Didn't even try to study - not atleast for the level of getting a pass mark. Enjoyed doing all sort of things on the night before exams. Not even have touched the book and went to attend a exam. But all the way through - something I beleive to be my luck saved me - I have passed exams in what I thought i would get a &lt;em&gt;single&lt;/em&gt; digit score!!
-&lt;/p&gt;
+woohoo!&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/a-perfect-day.html</guid><pubDate>Fri, 26 Mar 2010 01:58:44 GMT</pubDate></item><item><title>Why gawd why me?</title><link>http://blog.azhaguselvan.co.cc/why-gwad-why-me.html</link><description>&lt;p&gt;Those are times when I never cared about exams. Didn't even try to study - not atleast for the level of getting a pass mark. Enjoyed doing all sort of things on the night before exams. Not even have touched the book and went to attend a exam. But all the way through - something I beleive to be my luck saved me - I have passed exams in what I thought i would get a &lt;em&gt;single&lt;/em&gt; digit score!!&lt;/p&gt;
 &lt;p&gt;..but now, I have determined to study - try atleast. I have been doing that too!
-   Even my parents were amazed to see me awake at morning 5 for &lt;em&gt;studying&lt;/em&gt; after some 3+ years! But now too the shit called luck haunts me - bad luck. I am performing friggin bad as if I haven't prepared! WTF?
-&lt;/p&gt;
-&lt;p&gt;Why me??
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/why-gwad-why-me.html</guid><pubDate>Mon, 08 Mar 2010 20:15:29 GMT</pubDate></item><item><title>Configuring POP3 in ThunderBird 3 - Stupid hack</title><link>http://blog.azhaguselvan.co.cc/thunderbird3-pop3-setup-hack.html</link><description>&lt;p&gt;Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.
-&lt;/p&gt;
-&lt;p&gt;But hell I need POP3 with my gmail. In TB-3 there is no &lt;em&gt;direct&lt;/em&gt; manual option to choose POP3 as the server type. 
-&lt;/p&gt;
-&lt;p&gt;So after entering the login credentials, just click continue. 
-&lt;/p&gt;
-&lt;p&gt;And on the next screen, while it searches for the servers, click on the tiny stop link on the right top.
-&lt;/p&gt;
-&lt;p&gt;Now you have got the manual options to select POP3. :-D Courtesy : &lt;a href="http://getsatisfaction.com/mozilla_messaging/topics/how_do_i_set_up_pop3_accounts_on_the_lastest_version_on_thunderbird"&gt;click here&lt;/a&gt;!
-&lt;/p&gt;
-&lt;p&gt;But this is a stupid hack - for such a famous client they must have provided this option so that users can do it directly.
-&lt;/p&gt;
-&lt;p&gt;Hope they change it soon!
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/thunderbird3-pop3-setup-hack.html</guid><pubDate>Mon, 01 Feb 2010 23:34:08 GMT</pubDate></item><item><title>New tamil post about Tamil Hero Muthu Kumar</title><link>http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</link><description>&lt;p&gt;New post commemorating the late tamil hero Muthu kumran in his memory on his first death anniversary.
-   --&amp;gt; &lt;a href="http://azhaguselvan.blogspot.com/2010/01/blog-post_29.html"&gt;Read it here&lt;/a&gt;
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</guid><pubDate>Fri, 29 Jan 2010 00:43:18 GMT</pubDate></item><item><title>BSNL - you CRAP!!</title><link>http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</link><description>&lt;p&gt;I was/is having a very bad experience with BSNL broadband. 
-&lt;/p&gt;
-&lt;p&gt;Their way of approach when I first talked to them for getting a broadband connection itself shocked me. They re very least interested to explain about their plans, very very least interested about earning a new customer.:( But I had noway without them. 
-&lt;/p&gt;
-&lt;p&gt;..and when their guy came to setup the connection I was not in home. My mom called me and I talked with that BSNL guy.
-&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;BSNL guy: Enna sir unga computer la enna irukunne puriala!!
-   (Actually I am using GNU/Linux, that guy didn't know how to work with linux)
-&lt;/p&gt;
-&lt;p&gt;me: sir, athu linux nu oru operating system sir windows mathiri.
-&lt;/p&gt;
-&lt;p&gt;BSNL guy: sir ithula lam connection work aagathu sir( what the hell??!!). windows install pannitu phone pannunga engaluku.
-&lt;/p&gt;
-&lt;p&gt;me: :-/ (yells at myself)
-&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;Then it's followed by a lot of stupid incidents with them. They have the worst customer care service which a tele-communication provider has to offer. 
-&lt;/p&gt;
-&lt;p&gt;Their plans are also not at all suitable for me. I have a 2 AM to 8 AM unlimited hours of browsing. But those f&lt;em&gt;&lt;/em&gt;ckers did charged for me till 2.20 AM sometimes. The reason I got was - the B/W calculation updates every half-an-hour from when we switch on the modem. So to avoid, I was asked to switch off and on the modem at 2 AM.:( When I called them, their customer care executive - always says the same answer whatever complaint I give them. 
-&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Your complaint has been taken sir. It will be rectified in another few days.
-&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;But nothing will happen. Then I have to go to the nearby Exchange in person and beg the guys there to bring up a person to solve my problem. FUCK YOU!
-&lt;/p&gt;
-&lt;p&gt;..and finally now airtel has started their BB service in area!! So I decided to switch to airtel and was talking to the aircel executive.
-&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;airtel guy: when shall i come to get ur id's and give connection sir??
-&lt;/p&gt;
-&lt;p&gt;me: Hmm., I have to first surrender the BSNL connection before getting yours. So let me finish that and call you.
-&lt;/p&gt;
+Even my parents were amazed to see me awake at morning 5 for &lt;em&gt;studying&lt;/em&gt; after some 3+ years! But now too the shit called luck haunts me - bad luck. I am performing friggin bad as if I haven't prepared! WTF?&lt;/p&gt;
+&lt;p&gt;Why me??&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/why-gwad-why-me.html</guid><pubDate>Mon, 08 Mar 2010 20:15:29 GMT</pubDate></item><item><title>Configuring POP3 in ThunderBird 3 - Stupid hack</title><link>http://blog.azhaguselvan.co.cc/thunderbird3-pop3-setup-hack.html</link><description>&lt;p&gt;Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.&lt;/p&gt;
+&lt;p&gt;But hell I need POP3 with my gmail. In TB-3 there is no &lt;em&gt;direct&lt;/em&gt; manual option to choose POP3 as the server type. &lt;/p&gt;
+&lt;p&gt;So after entering the login credentials, just click continue. &lt;/p&gt;
+&lt;p&gt;And on the next screen, while it searches for the servers, click on the tiny stop link on the right top.&lt;/p&gt;
+&lt;p&gt;Now you have got the manual options to select POP3. :-D Courtesy : &lt;a href="http://getsatisfaction.com/mozilla_messaging/topics/how_do_i_set_up_pop3_accounts_on_the_lastest_version_on_thunderbird"&gt;click here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;But this is a stupid hack - for such a famous client they must have provided this option so that users can do it directly.&lt;/p&gt;
+&lt;p&gt;Hope they change it soon!&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/thunderbird3-pop3-setup-hack.html</guid><pubDate>Mon, 01 Feb 2010 23:34:08 GMT</pubDate></item><item><title>New tamil post about Tamil Hero Muthu Kumar</title><link>http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</link><description>&lt;p&gt;New post commemorating the late tamil hero Muthu kumran in his memory on his first death anniversary.
+--&amp;gt; [Read it here] (http://azhaguselvan.blogspot.com/2010/01/blog-post_29.html)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</guid><pubDate>Fri, 29 Jan 2010 00:43:18 GMT</pubDate></item><item><title>BSNL - you CRAP!!</title><link>http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</link><description>&lt;p&gt;I was/is having a very bad experience with BSNL broadband. &lt;/p&gt;
+&lt;p&gt;Their way of approach when I first talked to them for getting a broadband connection itself shocked me. They re very least interested to explain about their plans, very very least interested about earning a new customer.:( But I had noway without them. &lt;/p&gt;
+&lt;p&gt;..and when their guy came to setup the connection I was not in home. My mom called me and I talked with that BSNL guy.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;BSNL guy: Enna sir unga computer la enna irukunne puriala!!
+(Actually I am using GNU/Linux, that guy didn't know how to work with linux)&lt;/p&gt;
+&lt;p&gt;me: sir, athu linux nu oru operating system sir windows mathiri.&lt;/p&gt;
+&lt;p&gt;BSNL guy: sir ithula lam connection work aagathu sir( what the hell??!!). windows install pannitu phone pannunga engaluku.&lt;/p&gt;
+&lt;p&gt;me: :-/ (yells at myself)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Then it's followed by a lot of stupid incidents with them. They have the worst customer care service which a tele-communication provider has to offer. &lt;/p&gt;
+&lt;p&gt;Their plans are also not at all suitable for me. I have a 2 AM to 8 AM unlimited hours of browsing. But those f**ckers did charged for me till 2.20 AM sometimes. The reason I got was - the B/W calculation updates every half-an-hour from when we switch on the modem. So to avoid, I was asked to switch off and on the modem at 2 AM.:( When I called them, their customer care executive - always says the same answer whatever complaint I give them. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Your complaint has been taken sir. It will be rectified in another few days.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But nothing will happen. Then I have to go to the nearby Exchange in person and beg the guys there to bring up a person to solve my problem. FUCK YOU!&lt;/p&gt;
+&lt;p&gt;..and finally now airtel has started their BB service in area!! So I decided to switch to airtel and was talking to the aircel executive.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;airtel guy: when shall i come to get ur id's and give connection sir??&lt;/p&gt;
+&lt;p&gt;me: Hmm., I have to first surrender the BSNL connection before getting yours. So let me finish that and call you.&lt;/p&gt;
 &lt;p&gt;airtel guy: No worries sir, we have special team who will take care of surrendering stuff to BSNL on behalf of you and get the deposit to you
-   (I was suprised and started laughing!!)
-&lt;/p&gt;
-&lt;p&gt;me: err! LOL. how??
-&lt;/p&gt;
-&lt;p&gt;airtel guy: yes sir! Most of our customers were previously using BSNL, so we have this arrangement to make the job easy!!
-&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;May be this is one of their bussiness tactics, but they work this much to earn customers and it's obvious BSNL is losing it's larger share to other providers.
-&lt;/p&gt;
-&lt;p&gt;BSNL - you CRAP - you re gonna suck big time :D
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</guid><pubDate>Fri, 22 Jan 2010 21:33:57 GMT</pubDate></item><item><title>So far so good!</title><link>http://blog.azhaguselvan.co.cc/so-far-so-good.html</link><description>&lt;p&gt;yep!
-&lt;/p&gt;
-&lt;p&gt;/me has been really doing some nice things from the new year!
-&lt;/p&gt;
-&lt;p&gt;Firstly, I am writing some &lt;strong&gt;real&lt;/strong&gt; code for &lt;a href="http://tcenet.tce.edu"&gt;TCENet&lt;/a&gt;(yay!)
-&lt;/p&gt;
+(I was suprised and started laughing!!)&lt;/p&gt;
+&lt;p&gt;me: err! LOL. how??&lt;/p&gt;
+&lt;p&gt;airtel guy: yes sir! Most of our customers were previously using BSNL, so we have this arrangement to make the job easy!!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;May be this is one of their bussiness tactics, but they work this much to earn customers and it's obvious BSNL is losing it's larger share to other providers.&lt;/p&gt;
+&lt;p&gt;BSNL - you CRAP - you re gonna suck big time :D&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</guid><pubDate>Fri, 22 Jan 2010 21:33:57 GMT</pubDate></item><item><title>So far so good!</title><link>http://blog.azhaguselvan.co.cc/so-far-so-good.html</link><description>&lt;p&gt;yep!&lt;/p&gt;
+&lt;p&gt;/me has been really doing some nice things from the new year!&lt;/p&gt;
+&lt;p&gt;Firstly, I am writing some &lt;strong&gt;real&lt;/strong&gt; code for &lt;a href="http://tcenet.tce.edu"&gt;TCENet&lt;/a&gt;(yay!)&lt;/p&gt;
 &lt;p&gt;.. and then this &lt;a href="http://thefirstlecture.tk"&gt;TFL&lt;/a&gt; happened :P All credits goes to &lt;a href="http://meetgautham.co.cc"&gt;gautham&lt;/a&gt; who told this idea, organised things suffered to make it a sucess. But still am contributing a tiny part for it. So I have my rights to be proud ;-)
-   If this TFL continues to be success, then it will bring up a great break-through in &lt;a href="http://tce.edu"&gt;TCE&lt;/a&gt;'s knowledge seeking/sharing
-   community.
-&lt;/p&gt;
+If this TFL continues to be success, then it will bring up a great break-through in &lt;a href="http://tce.edu"&gt;TCE&lt;/a&gt;'s knowledge seeking/sharing
+community.&lt;/p&gt;
 &lt;p&gt;...then we're supposed to make a website for LOSA - A state level interschool cultural meet organised by &lt;a href="http://www.tvslakshmischool.org/"&gt;TVS&lt;/a&gt; alumnis.
-   Since that website is also supposed to host online events too, I can see a loads of oppurtunity to test my coding 
-   skills ahead :-D 
-&lt;/p&gt;
+Since that website is also supposed to host online events too, I can see a loads of oppurtunity to test my coding 
+skills ahead :-D &lt;/p&gt;
 &lt;p&gt;Then this mock-interview from the placement training classes happened. To my suprise I got a very nice feedback about my way
-   of communication and my resume :) The areas I lack were the questions shitty papers I studied in my previous semesters. Learning concepts in them is no big deal. I am really happy that I am way ahead from many of my mates in communication, which i thought i would be lacking at the worst :-D
-&lt;/p&gt;
-&lt;p&gt;...and finally here came a situation/work which forces me to learn designing stuff like jQuery/YUI etc which I wish to learn but was avoiding for a long time.
-&lt;/p&gt;
-&lt;p&gt;So ah yes, azhaguselvan is/was/would be busy for atleast another few weeks doing &lt;em&gt;really&lt;/em&gt; useful things ;-)
-&lt;/p&gt;
-&lt;p&gt;I can't end this without being mentioning about the two awesome parties happened - one before new year night and one in the next week at &lt;a href="http://en.wikipedia.org/wiki/Kodaikanal"&gt;KODAI&lt;/a&gt; :-D
-&lt;/p&gt;
-&lt;p&gt;I love my life :)
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/so-far-so-good.html</guid><pubDate>Fri, 22 Jan 2010 01:29:25 GMT</pubDate></item><item><title>New tamil post about telungana and my thoughts</title><link>http://blog.azhaguselvan.co.cc/new-tamil-post-telungana.html</link><description>&lt;p&gt;I have wrote a new blog post at my tamil blog.
-   People who read newspapers daily, who are feeling proud of being a tamizhian, who loves tamizh will find that post interesting. 
-&lt;/p&gt;
-&lt;p&gt;--&amp;gt;&lt;a href="http://azhaguselvan.blogspot.com/"&gt;Read it here&lt;/a&gt;
-&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/new-tamil-post-telungana.html</guid><pubDate>Sat, 12 Dec 2009 12:12:12 GMT</pubDate></item></channel></rss>
+of communication and my resume :) The areas I lack were the questions shitty papers I studied in my previous semesters. Learning concepts in them is no big deal. I am really happy that I am way ahead from many of my mates in communication, which i thought i would be lacking at the worst :-D&lt;/p&gt;
+&lt;p&gt;...and finally here came a situation/work which forces me to learn designing stuff like jQuery/YUI etc which I wish to learn but was avoiding for a long time.&lt;/p&gt;
+&lt;p&gt;So ah yes, azhaguselvan is/was/would be busy for atleast another few weeks doing &lt;em&gt;really&lt;/em&gt; useful things ;-)&lt;/p&gt;
+&lt;p&gt;I can't end this without being mentioning about the two awesome parties happened - one before new year night and one in the next week at &lt;a href="http://en.wikipedia.org/wiki/Kodaikanal"&gt;KODAI&lt;/a&gt; :-D&lt;/p&gt;
+&lt;p&gt;I love my life :)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/so-far-so-good.html</guid><pubDate>Fri, 22 Jan 2010 01:29:25 GMT</pubDate></item></channel></rss>
