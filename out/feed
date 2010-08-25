@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Sat, 31 Jul 2010 16:12:39 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Now I'm an Arch user :D</title><link>http://blog.azhaguselvan.co.cc/now-i-am-an-arch-user.html</link><description>&lt;p&gt;After a lot of failed attempts, I have now installed archlinux and typing this from a arch box. Yay!
+<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 26 Aug 2010 00:04:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>GO-OS 2010 - Talk on Version control systems and SVN</title><link>http://blog.azhaguselvan.co.cc/go-os-vcs-talk.html</link><description>&lt;p&gt;On August 14,2010 Blue genie technologies conducted a &lt;a href="http://osco.in/details.html"&gt;open source
+software conference&lt;/a&gt; in Madurai.
+I handled a talk on Version control systems and Subversion basics in that
+conference. &lt;a href="http://stylesen.org"&gt;Mr.Senthil Kumaran&lt;/a&gt; from Collabnet was asked to deliver a talk on
+version control systems on the event. But due to some personal issues he couldn't
+come to the conf and he gave the opportunity to me to handle the same talk on that day!&lt;/p&gt;
+&lt;p&gt;My talk started around 10.30 AM and I talked about half an hour - explaining what is a version control system and
+why we need it etc. I explained the basic differences about the distributed and centralized version
+control systems. Then I introduced Subversion to the crowd and showed a very basic usage of subversion
+command line client.&lt;/p&gt;
+&lt;p&gt;There were around 1000 audience who were mostly students from in and around madurai!
+The feedback I got from the audience was, the talk was more technical explaining the versioning concepts, but lacked
+few very basic examples which could reach that target audience :( This is the lesson I learnt, so that I will prepare
+my future presentations by keeping the target audience in mind.&lt;/p&gt;
+&lt;p&gt;The slides I used for the presentation are here -&amp;gt; &lt;a href="http://azhaguselvan.co.cc/files/vcs.pdf"&gt;http://azhaguselvan.co.cc/files/vcs.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to stylesen and Blue Genie Technologies for giving me this opportunity.&lt;/p&gt;
+&lt;p&gt;PS: I have also planned to give a talk on introduction to Django on that conf alongside with &lt;a href="http://bitbala.org"&gt;Mr.Bala Murugan&lt;/a&gt;
+who handled Web Programming with Python, but due to improper time management by the organizers I didn't get time to do that talk.&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/go-os-vcs-talk.html</guid><pubDate>Wed, 25 Aug 2010 23:59:54 GMT</pubDate></item><item><title>Now I'm an Arch user :D</title><link>http://blog.azhaguselvan.co.cc/now-i-am-an-arch-user.html</link><description>&lt;p&gt;After a lot of failed attempts, I have now installed archlinux and typing this from a arch box. Yay!
 The urge to install archlinux came after reading through the blog posts of my friend gautham, &lt;a href="http://meetgautham.co.cc/blog/2009/revisiting-linux-random-jottings/"&gt;here&lt;/a&gt;,
 and &lt;a href="http://meetgautham.co.cc/blog/2010/my-distro-story/"&gt;here&lt;/a&gt;. I have tried to install thrice before this successful attempt,
 in each I was left struck at different steps. On my last attempt, I have installed the base system, but only came to know
@@ -98,18 +115,4 @@ Even my parents were amazed to see me awake at morning 5 for &lt;em&gt;studying&
 &lt;p&gt;airtel guy: yes sir! Most of our customers were previously using BSNL, so we have this arrangement to make the job easy!!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;May be this is one of their bussiness tactics, but they work this much to earn customers and it's obvious BSNL is losing it's larger share to other providers.&lt;/p&gt;
-&lt;p&gt;BSNL - you CRAP - you re gonna suck big time :D&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</guid><pubDate>Fri, 22 Jan 2010 21:33:57 GMT</pubDate></item><item><title>So far so good!</title><link>http://blog.azhaguselvan.co.cc/so-far-so-good.html</link><description>&lt;p&gt;yep!&lt;/p&gt;
-&lt;p&gt;/me has been really doing some nice things from the new year!&lt;/p&gt;
-&lt;p&gt;Firstly, I am writing some &lt;strong&gt;real&lt;/strong&gt; code for &lt;a href="http://tcenet.tce.edu"&gt;TCENet&lt;/a&gt;(yay!)&lt;/p&gt;
-&lt;p&gt;.. and then this &lt;a href="http://thefirstlecture.tk"&gt;TFL&lt;/a&gt; happened :P All credits goes to &lt;a href="http://meetgautham.co.cc"&gt;gautham&lt;/a&gt; who told this idea, organised things suffered to make it a sucess. But still am contributing a tiny part for it. So I have my rights to be proud ;-)
-If this TFL continues to be success, then it will bring up a great break-through in &lt;a href="http://tce.edu"&gt;TCE&lt;/a&gt;'s knowledge seeking/sharing
-community.&lt;/p&gt;
-&lt;p&gt;...then we're supposed to make a website for LOSA - A state level interschool cultural meet organised by &lt;a href="http://www.tvslakshmischool.org/"&gt;TVS&lt;/a&gt; alumnis.
-Since that website is also supposed to host online events too, I can see a loads of oppurtunity to test my coding 
-skills ahead :-D &lt;/p&gt;
-&lt;p&gt;Then this mock-interview from the placement training classes happened. To my suprise I got a very nice feedback about my way
-of communication and my resume :) The areas I lack were the questions shitty papers I studied in my previous semesters. Learning concepts in them is no big deal. I am really happy that I am way ahead from many of my mates in communication, which i thought i would be lacking at the worst :-D&lt;/p&gt;
-&lt;p&gt;...and finally here came a situation/work which forces me to learn designing stuff like jQuery/YUI etc which I wish to learn but was avoiding for a long time.&lt;/p&gt;
-&lt;p&gt;So ah yes, azhaguselvan is/was/would be busy for atleast another few weeks doing &lt;em&gt;really&lt;/em&gt; useful things ;-)&lt;/p&gt;
-&lt;p&gt;I can't end this without being mentioning about the two awesome parties happened - one before new year night and one in the next week at &lt;a href="http://en.wikipedia.org/wiki/Kodaikanal"&gt;KODAI&lt;/a&gt; :-D&lt;/p&gt;
-&lt;p&gt;I love my life :)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/so-far-so-good.html</guid><pubDate>Fri, 22 Jan 2010 01:29:25 GMT</pubDate></item></channel></rss>
+&lt;p&gt;BSNL - you CRAP - you re gonna suck big time :D&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</guid><pubDate>Fri, 22 Jan 2010 21:33:57 GMT</pubDate></item></channel></rss>

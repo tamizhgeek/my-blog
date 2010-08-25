@@ -1,7 +1,7 @@
 Configuring POP3 in ThunderBird 3 - Stupid hack
 permalink: thunderbird3-pop3-setup-hack.html
-tags: thunderbird, setup, stupid
 published: 2010-02-01T23:34:08.838847
+tags: thunderbird, setup, stupid
 
 Thunderbird 3 has a nice setup like this - we enter the email address and password alone - it will search for the IMAP and SMTP servers avilable for the email id and set them up automatically.
 
