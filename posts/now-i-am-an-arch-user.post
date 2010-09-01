@@ -1,7 +1,7 @@
 Now I'm an Arch user :D
 permalink: now-i-am-an-arch-user.html
-tags: linux, distros, fun
 published: 2010-07-31T16:12:38.725375
+tags: linux, distros, fun
 
 After a lot of failed attempts, I have now installed archlinux and typing this from a arch box. Yay!
 The urge to install archlinux came after reading through the blog posts of my friend gautham, [here](http://meetgautham.co.cc/blog/2009/revisiting-linux-random-jottings/),
@@ -36,3 +36,15 @@ So my PC now has this:
 That's it! Installing all these and configuring them is really a superb experience. I have learned and learning a lot.
 But I seriously doubt whether I would have this time and patience to build and configure this whole system, when
 something is going to b0rk :)
+
+EDIT 1: Made this install yet slicker :P
+
+  - Fluxbox -> OpenBox(Boy I love this!)
+  - GDM -> SLIM (Sexy!)
+  - nautilus -> Thunar (How did I left this earlier?)
+  - DeadBeef for audio
+
+And here is a screenshot too,
+<img src="mydesk.png" width="400" height="300" />
+
+:)

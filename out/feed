@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 26 Aug 2010 00:04:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>GO-OS 2010 - Talk on Version control systems and SVN</title><link>http://blog.azhaguselvan.co.cc/go-os-vcs-talk.html</link><description>&lt;p&gt;On August 14,2010 Blue genie technologies conducted a &lt;a href="http://osco.in/details.html"&gt;open source
+<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 02 Sep 2010 00:12:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>GO-OS 2010 - Talk on Version control systems and SVN</title><link>http://blog.azhaguselvan.co.cc/go-os-vcs-talk.html</link><description>&lt;p&gt;On August 14,2010 Blue genie technologies conducted a &lt;a href="http://osco.in/details.html"&gt;open source
 software conference&lt;/a&gt; in Madurai.
 I handled a talk on Version control systems and Subversion basics in that
 conference. &lt;a href="http://stylesen.org"&gt;Mr.Senthil Kumaran&lt;/a&gt; from Collabnet was asked to deliver a talk on
@@ -55,7 +55,17 @@ desktop environments and go for a window manager based setup. So installed fluxb
 &lt;/ul&gt;
 &lt;p&gt;That's it! Installing all these and configuring them is really a superb experience. I have learned and learning a lot.
 But I seriously doubt whether I would have this time and patience to build and configure this whole system, when
-something is going to b0rk :)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/now-i-am-an-arch-user.html</guid><pubDate>Sat, 31 Jul 2010 16:12:38 GMT</pubDate></item><item><title>Talk on Version control systems and git</title><link>http://blog.azhaguselvan.co.cc/talk-on-version-control-systems.html</link><description>&lt;p&gt;OK, This is very late. Actually on the last thursday ( May 21st) myself and my friend gave a talk on Version control systems and git in &lt;a href="http://www.klncit.edu.in/"&gt;KLN College of engineering and technology&lt;/a&gt; for the &lt;a href="http://madurai.gtugs.org"&gt;GTUG/OSUG&lt;/a&gt; Summer camp organised by the guys there.&lt;/p&gt;
+something is going to b0rk :)&lt;/p&gt;
+&lt;p&gt;EDIT 1: Made this install yet slicker :P&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fluxbox -&amp;gt; OpenBox(Boy I love this!)&lt;/li&gt;
+&lt;li&gt;GDM -&amp;gt; SLIM (Sexy!)&lt;/li&gt;
+&lt;li&gt;nautilus -&amp;gt; Thunar (How did I left this earlier?)&lt;/li&gt;
+&lt;li&gt;DeadBeef for audio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And here is a screenshot too,
+&lt;img src="mydesk.png" width="400" height="300" /&gt;&lt;/p&gt;
+&lt;p&gt;:)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/now-i-am-an-arch-user.html</guid><pubDate>Sat, 31 Jul 2010 16:12:38 GMT</pubDate></item><item><title>Talk on Version control systems and git</title><link>http://blog.azhaguselvan.co.cc/talk-on-version-control-systems.html</link><description>&lt;p&gt;OK, This is very late. Actually on the last thursday ( May 21st) myself and my friend gave a talk on Version control systems and git in &lt;a href="http://www.klncit.edu.in/"&gt;KLN College of engineering and technology&lt;/a&gt; for the &lt;a href="http://madurai.gtugs.org"&gt;GTUG/OSUG&lt;/a&gt; Summer camp organised by the guys there.&lt;/p&gt;
 &lt;p&gt;There were around 90 people there in the hall and it was supposed to be a presentation with an hands-on session. But only after reaching there we came know that, git and other tools are not installed on their computers. Their internet connection is also a sucky one :( So limited our session to a talk and  a demo on our laptop. &lt;/p&gt;
 &lt;p&gt;I talked about the concepts of version control systems, why we need it?, what it can do? and the difference about distributed and centralised models etc etc. I also gave a brief intro about the history of git. The audience had no idea of software development, so had to keep my talk very minimally technical. &lt;/p&gt;
 &lt;p&gt;Next my friend &lt;a href="http://karthik.tk"&gt;Karthik&lt;/a&gt; continued and talked about the git command line tool, demo'ed and explained some of the basic commands. There was literally no response from the crowd but after the day when we asked some guys personally, they said that the session was nice :D&lt;/p&gt;
