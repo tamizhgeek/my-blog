@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Thu, 02 Sep 2010 00:12:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>GO-OS 2010 - Talk on Version control systems and SVN</title><link>http://blog.azhaguselvan.co.cc/go-os-vcs-talk.html</link><description>&lt;p&gt;On August 14,2010 Blue genie technologies conducted a &lt;a href="http://osco.in/details.html"&gt;open source
+<rss version="2.0"><channel><title>From a random engineer</title><link>http://blog.azhaguselvan.co.cc/</link><description>A guy who was pushed to computers by force - now tinkers with them by choice :)</description><lastBuildDate>Wed, 22 Sep 2010 23:56:41 GMT</lastBuildDate><generator>PyRSS2Gen-1.0.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I got a JOB!</title><link>http://blog.azhaguselvan.co.cc/i-got-a-job.html</link><description>&lt;p&gt;Oh yeah I got a job. &lt;a href="http://www.aricent.com/"&gt;Aricent&lt;/a&gt; visited our college campus
+last week for recruiting us and I made through the three rounds of the interview and got
+selected :D The interview was a nice experience and they announced the results
+in 2 AM midnight. No., I was not awake :P My friends called up and told me.&lt;/p&gt;
+&lt;p&gt;We all were sitting in groups and studying the OS and network concepts trying to master all the
+stuff in that SINGLE day. Every guy who went before me got a decent amount of questions from those
+domains and yes data structures too. But not for me :P&lt;/p&gt;
+&lt;p&gt;The interviewee read my resume, and started asking
+questions from GNU/Linux (yay!). I got questions even about Subversion, but not even a single question
+from OS or Networks :D So that went like a cakewalk :)&lt;/p&gt;
+&lt;p&gt;Now having got placed in Aricent, I have a answer for a question that every random guy I met asked in
+the past four months.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;"Hey ya! You're in final year huh? What about the placements dude?"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yes, that was pretty tiring to answer when almost every person you meetup asks the same question and you don't have an answer!&lt;/p&gt;
+&lt;p&gt;And that also gave much happiness to my parents. Larger than I expected. Cos, they are in complete state of mess
+after watching my &lt;em&gt;fcking internal mark reports which my college sends after every fcking internal exam to my home!&lt;/em&gt;
+They don't understand the concept of "getting marks and getting a job are different" and they were greatly
+disappointed. BUT now they are HAPPY :)&lt;/p&gt;
+&lt;p&gt;I lost interest in getting fancy marks long ago, and I was writing exams only for the sake of it. I have spent many
+sleepless before-exam-nights reading/configuring/programming/*ing with my PC, when all my class mates are involved in group studies :P
+Again, I am happy that., I proved myself to every idiot who treated me like a dumbass, cos I don't have a decent CGPA as
+the class toppers. Heck, a lot of class toppers even didn't get placed!&lt;/p&gt;
+&lt;p&gt;But but I knew., THIS IS NOT THE JOB I AM GOING TO SPEND MY REST OF LIFE. :)&lt;/p&gt;
+&lt;p&gt;I always wish to work in a Free-software based company, in the free-software way, in a hacker-ish way.&lt;/p&gt;
+&lt;p&gt;I never want to become a programmer who sits somewhere in the process of assembly line programming, among a colony of
+programmers and generate code., in a traditional IT firm!&lt;/p&gt;
+&lt;p&gt;As &lt;a href="http://yuvi.in"&gt;yuvi&lt;/a&gt; says &lt;a href="http://yuvi.in/blog/work-life-balance.htmlhttp://yuvi.in/blog/work-life-balance.html"&gt;here&lt;/a&gt;
+- " I want what I work on to be part of my life - and not as something that I should escape from so I can have a life"&lt;/p&gt;
+&lt;p&gt;I too will make sure that will happen :)&lt;/p&gt;
+&lt;p&gt;Kudos to all my friends who made it to the job along with me!&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/i-got-a-job.html</guid><pubDate>Wed, 22 Sep 2010 23:41:39 GMT</pubDate></item><item><title>GO-OS 2010 - Talk on Version control systems and SVN</title><link>http://blog.azhaguselvan.co.cc/go-os-vcs-talk.html</link><description>&lt;p&gt;On August 14,2010 Blue genie technologies conducted a &lt;a href="http://osco.in/details.html"&gt;open source
 software conference&lt;/a&gt; in Madurai.
 I handled a talk on Version control systems and Subversion basics in that
 conference. &lt;a href="http://stylesen.org"&gt;Mr.Senthil Kumaran&lt;/a&gt; from Collabnet was asked to deliver a talk on
@@ -99,30 +128,4 @@ Even my parents were amazed to see me awake at morning 5 for &lt;em&gt;studying&
 &lt;p&gt;Now you have got the manual options to select POP3. :-D Courtesy : &lt;a href="http://getsatisfaction.com/mozilla_messaging/topics/how_do_i_set_up_pop3_accounts_on_the_lastest_version_on_thunderbird"&gt;click here&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;But this is a stupid hack - for such a famous client they must have provided this option so that users can do it directly.&lt;/p&gt;
 &lt;p&gt;Hope they change it soon!&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/thunderbird3-pop3-setup-hack.html</guid><pubDate>Mon, 01 Feb 2010 23:34:08 GMT</pubDate></item><item><title>New tamil post about Tamil Hero Muthu Kumar</title><link>http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</link><description>&lt;p&gt;New post commemorating the late tamil hero Muthu kumran in his memory on his first death anniversary.
---&amp;gt; [Read it here] (http://azhaguselvan.blogspot.com/2010/01/blog-post_29.html)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</guid><pubDate>Fri, 29 Jan 2010 00:43:18 GMT</pubDate></item><item><title>BSNL - you CRAP!!</title><link>http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</link><description>&lt;p&gt;I was/is having a very bad experience with BSNL broadband. &lt;/p&gt;
-&lt;p&gt;Their way of approach when I first talked to them for getting a broadband connection itself shocked me. They re very least interested to explain about their plans, very very least interested about earning a new customer.:( But I had noway without them. &lt;/p&gt;
-&lt;p&gt;..and when their guy came to setup the connection I was not in home. My mom called me and I talked with that BSNL guy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;BSNL guy: Enna sir unga computer la enna irukunne puriala!!
-(Actually I am using GNU/Linux, that guy didn't know how to work with linux)&lt;/p&gt;
-&lt;p&gt;me: sir, athu linux nu oru operating system sir windows mathiri.&lt;/p&gt;
-&lt;p&gt;BSNL guy: sir ithula lam connection work aagathu sir( what the hell??!!). windows install pannitu phone pannunga engaluku.&lt;/p&gt;
-&lt;p&gt;me: :-/ (yells at myself)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Then it's followed by a lot of stupid incidents with them. They have the worst customer care service which a tele-communication provider has to offer. &lt;/p&gt;
-&lt;p&gt;Their plans are also not at all suitable for me. I have a 2 AM to 8 AM unlimited hours of browsing. But those f**ckers did charged for me till 2.20 AM sometimes. The reason I got was - the B/W calculation updates every half-an-hour from when we switch on the modem. So to avoid, I was asked to switch off and on the modem at 2 AM.:( When I called them, their customer care executive - always says the same answer whatever complaint I give them. &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Your complaint has been taken sir. It will be rectified in another few days.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing will happen. Then I have to go to the nearby Exchange in person and beg the guys there to bring up a person to solve my problem. FUCK YOU!&lt;/p&gt;
-&lt;p&gt;..and finally now airtel has started their BB service in area!! So I decided to switch to airtel and was talking to the aircel executive.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;airtel guy: when shall i come to get ur id's and give connection sir??&lt;/p&gt;
-&lt;p&gt;me: Hmm., I have to first surrender the BSNL connection before getting yours. So let me finish that and call you.&lt;/p&gt;
-&lt;p&gt;airtel guy: No worries sir, we have special team who will take care of surrendering stuff to BSNL on behalf of you and get the deposit to you
-(I was suprised and started laughing!!)&lt;/p&gt;
-&lt;p&gt;me: err! LOL. how??&lt;/p&gt;
-&lt;p&gt;airtel guy: yes sir! Most of our customers were previously using BSNL, so we have this arrangement to make the job easy!!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;May be this is one of their bussiness tactics, but they work this much to earn customers and it's obvious BSNL is losing it's larger share to other providers.&lt;/p&gt;
-&lt;p&gt;BSNL - you CRAP - you re gonna suck big time :D&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/bsnl-you-crap.html</guid><pubDate>Fri, 22 Jan 2010 21:33:57 GMT</pubDate></item></channel></rss>
+--&amp;gt; [Read it here] (http://azhaguselvan.blogspot.com/2010/01/blog-post_29.html)&lt;/p&gt;</description><guid isPermaLink="true">http://blog.azhaguselvan.co.cc/new-tamil-post-muthukumar.html</guid><pubDate>Fri, 29 Jan 2010 00:43:18 GMT</pubDate></item></channel></rss>
